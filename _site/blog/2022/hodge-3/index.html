@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <!-- Head -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Loïs  Faisant | Théorie de Hodge II</title>
+    <meta name="author" content="Loïs  Faisant" />
+    <meta name="description" content="Groupe de lecture, 3ème exposé" />
+    <meta name="keywords" content="geometric/motivic Manin conjecture, motivic integration" />
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous" />
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/perldoc.css" media="none" id="highlight_theme_light" />
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>➰</text></svg>">
+    
+    <link rel="stylesheet" href="/~faisantl/assets/css/main.css">
+    <link rel="canonical" href="https://www-fourier.univ-grenoble-alpes.fr/~faisantl/blog/2022/hodge-3/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
+
+    <script src="/~faisantl/assets/js/theme.js"></script>
+    <script src="/~faisantl/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav sticky-bottom-footer">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="https://www-fourier.univ-grenoble-alpes.fr/~faisantl/"><span class="font-weight-bold">Loïs</span>   Faisant</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/~faisantl/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/cv/">cv</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">other</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="">creative coding</a>
+                  <a class="dropdown-item" href="">photography</a>
+                  <a class="dropdown-item" href="">music</a>
+                </div>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/research/">research</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/teaching/">teaching</a>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <div class="toggle-container">
+                <a id="light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </a>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Théorie de Hodge II</h1>
+    <p class="post-meta">April 6, 2022</p>
+    <p class="post-tags">
+      <a href="/~faisantl/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+        ·  
+        <a href="/~faisantl/blog/tag/hodge-theory">
+          <i class="fas fa-hashtag fa-sm"></i> hodge-theory</a>  
+          <a href="/~faisantl/blog/tag/deligne">
+          <i class="fas fa-hashtag fa-sm"></i> deligne</a>  
+          
+        ·  
+        <a href="/~faisantl/blog/category/math">
+          <i class="fas fa-tag fa-sm"></i> math</a>  
+          <a href="/~faisantl/blog/category/French">
+          <i class="fas fa-tag fa-sm"></i> French</a>  
+          
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    <p><em>Note d’exposés donnés dans le cadre d’un groupe de lecture de doctorant.e.s autour de la <a href="http://www.numdam.org/item/PMIHES_1971__40__5_0.pdf" target="_blank" rel="noopener noreferrer">thèse de Deligne</a>.</em></p>
+
+<p><em>Esposé de Rufus Lawrence</em></p>
+
+<h1 id="suites-spectrales-et-lemme-des-deux-filtrations-partie-2">Suites spectrales et lemme des deux filtrations, partie 2</h1>
+
+<h2 id="lemme-des-deux-filtrations-suite">Lemme des deux filtrations, suite</h2>
+
+<p>On rappelle la situation : on se donne $\mathscr{A}$ une catégorie
+abélienne, $K^\bullet$ un complexe différentiel d’objets de
+$\mathscr{A}$, muni d’une filtration $F$, compatible avec la
+différentielle.</p>
+
+<p>Alors $F$ induit une suite spectrale $E^{p,q}_r = E^{p,q}_r ( K , F )$ :
+on a défini des cycles</p>
+
+\[Z_r^{p,q} = \ker ( d : F^p ( K^{\textcolor{red}{p+q}} ) \to K^{\textcolor{red}{p+q}+1} / F^{p+r} ( K^{\textcolor{red}{p+q}+1} ) )\]
+
+<p>et des bords $B_r^{p,q}$ tel que</p>
+
+\[K^{\textcolor{red}{p+q}}  / B^{p,q}_r \simeq \mathop{\mathrm{\mathrm{coker}}}( d : F^{p-q+1} ( K ^{\textcolor{red}{p+q}-1} ) \to K^{\textcolor{red}{p+q}} / F^{p+1} ( K^{\textcolor{red}{p+q}} ) )\]
+
+<p>de sorte que</p>
+
+<p>\begin{equation}
+    E_r^{p,q}   = \mathop{\mathrm{\mathrm{Im}}}( Z_r^{p,q} \to K^{\textcolor{red}{p+q}} /B_r^{p,q} ) = Z_r^{p,q} / (B_r^{p,q} \cap Z_r^{p,q} ) \label{def:page-def-1}
+\end{equation}</p>
+
+<p>\begin{equation}
+    E_r^{p,q}  = \ker ( K^{\textcolor{red}{p+q}} / B^{p,q}_r  \to K^{\textcolor{red}{p+q}} / ( Z_r^{p,q} + B_r^{p,q} ) )  . \label{def:page-def-2}
+\end{equation}</p>
+
+<p>On a de plus</p>
+
+<p>\begin{equation}
+E_{r+1}^{p,q} = H ( E_r^{p-r,q+r-1} \to E_r^{p,q} \to E^{p+r,q-r+1}_r ) . \label{equation:page-comme-groupe-de-cohomologie}
+\end{equation}</p>
+
+<h3 id="filtration-décalée">Filtration décalée</h3>
+
+<p>Soit \(( K,F )\) un complexe filtré. Le complexe décalé
+\(\mathop{\mathrm{\mathrm{Dec}}}( K )\) est le complexe \(K\) muni de la
+filtration</p>
+
+\[\mathop{\mathrm{\mathrm{Dec}}}( F ) ^p K^n  =   Z_1^{p+n , - p }\]
+
+<p>C’est bien une filtration, puisque</p>
+
+\[Z^{p+n +1 , - p}_1 \subseteq F^{p+1+n} ( K^n  ) \subseteq B_1^{p+n , - p} \subseteq Z_1^{p+n+1, -p}\]
+
+<p>et on a un morphisme</p>
+
+\[Z_1^{p+n, -p} / Z_1^{p+n+1, - p - 1 } \longrightarrow Z_1^{p+n, -p} / B_1^{p+1, - p  }\]
+
+<p>ce qui fournit</p>
+
+\[u : E_0^{p,n-p} ( \mathop{\mathrm{\mathrm{Dec}}}( K ) ) \longrightarrow E_1^{p+n,-p} ( K ).\]
+
+<div class="mydef">
+
+  <p><strong>Définition 16</strong>. Un morphisme $f : ( K , F ) \to ( K ‘ , F ‘ )$ est un
+<em>quasi-isomorphisme filtré</em> si $\mathop{\mathrm{\mathrm{Gr}}}( f  )$ est
+un quasi-isomorphisme.</p>
+
+  <p>Un morphisme $f : ( K , F , W  ) \to ( K ‘ , F ‘ , W ‘ )$ est un
+<em>quasi-isomorphisme filtré</em> si
+$\mathop{\mathrm{\mathrm{Gr}}}_W \mathop{\mathrm{\mathrm{Gr}}}_F ( f  )$
+est un quasi-isomorphisme.</p>
+
+</div>
+
+<div class="myptn">
+
+  <p><strong>Proposition 17</strong>. <em>On a les faits suivants.</em></p>
+
+  <ol>
+    <li>
+      <p><em>$u$ est un morphisme de complexes gradués.</em></p>
+    </li>
+    <li>
+      <p><em>$u$ est un quasi-isomorphisme filtré.</em></p>
+    </li>
+    <li>
+      <p><em>$u$ induite de proche en proche des isomomorphismes
+\(E_r ( \mathop{\mathrm{\mathrm{Dec}}}( K ) ) \simeq E_{r+1} ( K ) .\)</em></p>
+    </li>
+  </ol>
+
+</div>
+
+<h3 id="deux-filtrations">Deux filtrations</h3>
+
+<p>On se donne $( K , F , W )$ un complexe doublement filtré, et on
+considère $E^{p,q}_r = E_r^{p,q} ( K , W )$. Dans ce cas, $F$ induit des
+filtrations sur les $E_r^{p,q}$.</p>
+
+<ul>
+  <li>
+    <p>En effet, \eqref{def:page-def-1} identifie
+$E_r^{p,q}$ à un quotient d’un sous-objet de $K^{p+q}$. De cette
+façon, $F$ induit une filtration $F_d$ sur $E_r^{p,q}$, la <em>première
+filtration directe</em>.</p>
+  </li>
+  <li>
+    <p>Ensuite, \eqref{def:page-def-2} identifie
+$E_r^{p,q}$ à un sous-objet d’un quotient de $K^{p+q}$, et $F$
+induit une autre filtration $F_{d^<em>}$, la *seconde filtration
+directe</em>.</p>
+  </li>
+  <li>
+    <p>Enfin, \eqref{equation:page-comme-groupe-de-cohomologie}
+identifie $E_{r+1}^{p,q}$ à un quotient d’un sous-objet de
+$E_r^{p,q}$. La <em>filtration récursive $F_{rec}$</em> est obtenue en
+posant :</p>
+
+    <ol>
+      <li>
+        <p>$F_{rec} = F_d$ sur $E_0^{p,q}$ ;</p>
+      </li>
+      <li>
+        <p>sur $E_{r+1}$, $F_{rec}$ est celle induite par $F_{rec}$ sur
+$E_r$.</p>
+      </li>
+    </ol>
+  </li>
+</ul>
+
+<div class="mythm">
+
+  <p><strong>Théorème 18</strong>. <em>Soit $K$ un complexe différentiel d’objets de
+$\mathscr{A}$ muni de deux filtrations $W$ et $F$, avec $F$
+birrégulière. On suppose qu’il existe un rang de page $r_0 \geqslant 0$
+tel que pour tout $0\leqslant r \leqslant r_0$ les différentielles de
+$E_r ( K , W )$ sont strictement compatibles à $F_{rec}$.</em></p>
+
+  <p><em>Alors pour $r\leqslant r_0 +1$, \(F_d = F_{d^* } = F_{rec}\) sur
+$E_r^{p,q}$.</em></p>
+
+</div>
+
+<div class="mycor">
+
+  <p><strong>Corollary 19</strong>. <em>Si $d_r$ est strictement compatible à \(F_{rec}\) pour
+tout $r$, alors \(F_{rec} = F_d = F_{d^*}\) sur $E_\infty$ et coincident
+avec la filtration induite par $F$ sur $H ( K^\bullet )$.</em></p>
+
+</div>
+
+<h2 id="pour-terminer-petits-rappels-de-différentielles-kälheriennes">Pour terminer, petits rappels de différentielles kälheriennes</h2>
+
+<p>Soit $A$ un anneau, $\varphi : A \to B$ une structure de $A$-algèbre sur
+un anneau $B$.</p>
+
+<p>Soit $M$ un $B$-module. Une $A$-dérivation de $B$ dans $M$ est un
+homomorphisme de $A$-modules $\mathrm d:B\to M$ tel que</p>
+
+\[\mathop{\mathrm{\mathrm{d}}}\circ \varphi  = 0\]
+
+\[\mathop{\mathrm{\mathrm{d}}}( fg )  = f \mathop{\mathrm{\mathrm{d}}}g + g \mathop{\mathrm{\mathrm{d}}}f\]
+
+<p>Alors $\Omega_{A/B}$ est le $B$-module défini par la propriété
+universelle suivante : si $B\to \Omega_{A/B}$ et $B\to M$ sont des
+$A$-dérivations, il existe un et un seul morphisme $\Omega_{A/B} \to M$
+factorisant.</p>
+
+<div class="mydef">
+
+  <p><strong>Définition 20</strong>. Soit $f: X \to Y$ un morphisme de shémas,
+$\Delta : X \to X \times_Y X$ le morphisme diagonale.</p>
+
+  <p>L’image $\Delta ( X )$ est localement fermée dans $X\times _Y X$ et est
+isomorphe à $X$ . Soit $W$ un ouvert de $X\times _Y X$ contenant
+$\Delta ( X )$ comme fermé, et $\mathscr J$ le faisceau d’idéaux de
+$\Delta ( X )$ dans $W$.</p>
+
+  <p>On pose \(\Omega_{X/Y} = \Delta ^* ( \mathscr J / \mathscr J^2 )\) et on
+vérifie qu’on a une différentielle
+\(\mathop{\mathrm{\mathrm{d}}}: \mathscr{O}_X \to \Omega_{X/Y}\).</p>
+
+  <p>Pour tout entier $n$ positif, on pose
+\(\Omega_{X/Y}^n = \Lambda ^n \Omega_{X/Y} .\) En imposant
+$\mathop{\mathrm{\mathrm{d}}}\circ \mathop{\mathrm{\mathrm{d}}}$ et la
+règle de Leibniz, on peut étendre en un complexe</p>
+
+\[\Omega^\bullet : \mathscr{O}_X \to \mathscr{O}_{X/Y} \to \Omega^1_{X/Y} \to \Omega^2_{X/Y} \to ...\]
+
+  <p>de faisceaux de $\mathscr{O}_X$-modules.</p>
+
+  <h3 id="hypercohomologie">Hypercohomologie</h3>
+
+  <p>Soit $\mathscr{I}^\bullet$ un complexe de <em>bons</em> faisceaux (suffisamment
+d’injectifs) sur un schéma noetherien
+$f: X \to \mathop{\mathrm{\mathrm{Spec}}}( k )$ de type fini. On pose
+\(\mathbf H^i ( X , \mathscr{I}^\bullet ) = H^i ( R^i f_* \mathscr{I}^\bullet )\)
+de sorte que</p>
+
+  <ol>
+    <li>
+      <p>si $\alpha : \mathscr{I}^\bullet \to \mathscr G^\bullet$ est un
+quasi-iso, le morphisme induit
+\(\alpha_* : \mathbf H^i ( X , \mathscr{I}^\bullet ) \to \mathbf H^i ( X , \mathscr G^\bullet )\)
+est un isomorphisme</p>
+    </li>
+    <li>
+      <p>si $\mathscr{I}^\bullet$ est concentré en un degré, on retombe sur
+la cohomologie des faisceaux</p>
+    </li>
+  </ol>
+
+</div>
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+  <h1 id="rfrences">Références</h1>
+
+  <div id="refs" class="references csl-bib-body hanging-indent">
+
+    <div id="ref-deligne1971theorie" class="csl-entry">
+
+      <p>Deligne, Pierre. 1971. “Théorie de Hodge: II.” <em>Publications
+Mathématiques de l’IHÉS</em> 40: 5–57.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        © Copyright 2023 Loïs  Faisant. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
+Last updated: October 30, 2023.
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/~faisantl/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script src="/~faisantl/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script src="/~faisantl/assets/js/common.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams',
+    displayMath: [             // start/end delimiter pairs for display math
+      ['$$', '$$'],
+      ['\\[', '\\]']],
+    inlineMath: [['$', '$'],             // start/end delimiter pairs for in-line math
+      ['\\(', '\\)']
+    ]
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+  </body>
+</html>
+

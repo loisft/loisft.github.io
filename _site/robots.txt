@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www-fourier.univ-grenoble-alpes.fr/~faisantl/sitemap.xml

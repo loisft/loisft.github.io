@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <!-- Head -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Loïs  Faisant | Théorie de Hodge II</title>
+    <meta name="author" content="Loïs  Faisant" />
+    <meta name="description" content="Groupe de lecture, 2ème exposé" />
+    <meta name="keywords" content="geometric/motivic Manin conjecture, motivic integration" />
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous" />
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/perldoc.css" media="none" id="highlight_theme_light" />
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>➰</text></svg>">
+    
+    <link rel="stylesheet" href="/~faisantl/assets/css/main.css">
+    <link rel="canonical" href="https://www-fourier.univ-grenoble-alpes.fr/~faisantl/blog/2022/hodge-2/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
+
+    <script src="/~faisantl/assets/js/theme.js"></script>
+    <script src="/~faisantl/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav sticky-bottom-footer">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="https://www-fourier.univ-grenoble-alpes.fr/~faisantl/"><span class="font-weight-bold">Loïs</span>   Faisant</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/~faisantl/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/cv/">cv</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">other</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="">creative coding</a>
+                  <a class="dropdown-item" href="">photography</a>
+                  <a class="dropdown-item" href="">music</a>
+                </div>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/research/">research</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/~faisantl/teaching/">teaching</a>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <div class="toggle-container">
+                <a id="light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </a>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Théorie de Hodge II</h1>
+    <p class="post-meta">March 31, 2022</p>
+    <p class="post-tags">
+      <a href="/~faisantl/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+        ·  
+        <a href="/~faisantl/blog/tag/hodge-theory">
+          <i class="fas fa-hashtag fa-sm"></i> hodge-theory</a>  
+          <a href="/~faisantl/blog/tag/deligne">
+          <i class="fas fa-hashtag fa-sm"></i> deligne</a>  
+          
+        ·  
+        <a href="/~faisantl/blog/category/math">
+          <i class="fas fa-tag fa-sm"></i> math</a>  
+          <a href="/~faisantl/blog/category/French">
+          <i class="fas fa-tag fa-sm"></i> French</a>  
+          
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    <p><em>Note d’exposés donnés dans le cadre d’un groupe de lecture de doctorant.e.s autour de la <a href="http://www.numdam.org/item/PMIHES_1971__40__5_0.pdf" target="_blank" rel="noopener noreferrer">thèse de Deligne</a>.</em></p>
+
+<p><em>Esposé de Rufus Lawrence</em></p>
+
+<h1 id="suites-spectrales-et-lemme-des-deux-filtrations-partie-1">Suites spectrales et lemme des deux filtrations, partie 1</h1>
+
+<h2 id="crash-course-suites-spectrales-pour-les-nuls">Crash course, suites spectrales pour les nuls</h2>
+
+<h3 id="suite-spectrale-chohomologique">Suite spectrale chohomologique</h3>
+
+<p>Soit $\mathscr{A}$ une catégorie abélienne.</p>
+
+<p>Une suite spectrale cohomologique est la donnée
+\(\{ E_r , d_r : E_r \to E_r \}_{r\geqslant 0}\) d’une collection d’objets
+de $\mathscr{A}$ telle que</p>
+
+<ol>
+  <li>
+    <p>$d_r \circ d_r = 0$</p>
+  </li>
+  <li>
+    <p>$E_{r+1} = H ( E_r , d_r )$</p>
+  </li>
+</ol>
+
+<p>On dit que $E_r$ est la $r$-ième page de la suite spectrale.</p>
+
+<p>Alors voilà pour une définition générale. Mais si vous vous promenez
+dans la nature et croisez une suite spectrale, vous allez plutôt croiser
+une suite spectrale bigraduée.</p>
+
+<h3 id="suite-spectrale-bigraduée">Suite spectrale bigraduée</h3>
+
+<p>Dans ce cas, on a une décomposition</p>
+
+\[E_r = \oplus_{p,q\in \mathbf{Z}} E^{p,q}_r\]
+
+<p>avec</p>
+
+\[d_r = \left ( d_r^{p,q} : E_r^{p,q} \longrightarrow E_r^{p+r,q-r+1} \right ).\]
+
+<p>Dans cette situation,</p>
+
+<ul>
+  <li>
+    <p>$d^{p+q,q-r+1}_{r} \circ d^{p,q}_r = 0$</p>
+  </li>
+  <li>
+    <p>$E_{r+1} \simeq H ( E_r , d_r )$</p>
+  </li>
+</ul>
+
+<h3 id="un-premier-exemple-bête-de-dégénérescence">Un premier exemple bête de dégénérescence</h3>
+
+<p>Soit $\mathscr{A}$ une catégorie abélienne et $C^\bullet$ un complexe.
+On pose $E_0 = C^\bullet$, $d_0 = d^\bullet$, dès lors
+$H(C^\circ ) = E_1$, et en <em>posant</em> $d_1 = 0$ on a dégénérescence
+$E_2 = E_3 = E_n$ dès que $n\geqslant 2$.</p>
+
+<h3 id="dégénérescence-des-suites-spectrales">Dégénérescence des suites spectrales</h3>
+
+<p>On dit que \(\{ E_r , d_r \}\) dégénère à $r_0$ si</p>
+
+\[r\geqslant r_0 \Rightarrow d_r = 0\]
+
+<p>ce qui implique $E_r = E_{r_0}$
+dès que $r=r_0$. On le note</p>
+
+\[E_r^{p,q} \Rightarrow E_{r_0}^{p,q}.\]
+
+<p>On
+dit de plus qu’elle s’effondre si elle est concentré dans une ligne ou
+une colonne.</p>
+
+<p>On peut penser chaque page de la suite spectrale comme une approximation
+de la cohomologie d’un certain complexe (<em>cf</em> plus loin dans le cas
+d’une filtration).</p>
+
+<h3 id="termes-limites">Termes limites</h3>
+
+<p>Soit $E_r$ une suite spectrale. Il existe une double-suite de
+sous-objets \((B_r)_{r\geqslant 0}\) et \((Z_r )_{r\geqslant 0}\)</p>
+
+\[0 = B_0 \subseteq B_1 \subseteq ... \subseteq B_r \subseteq ... \subseteq Z_r \subseteq ... \subseteq Z_1 \subseteq Z_0 = E_1\]
+
+<p>tels que</p>
+
+\[E_r \simeq Z_{r-1} / B_{r-1}.\]
+
+<p>Pourquoi? On pose
+naturellement</p>
+
+\[Z_0 = E_1 \text{ et } B_0 = 0\]
+
+<p>puis $Z_r$ et $B_r$ tels
+que</p>
+
+\[Z_r / B_{r-1} = \ker ( E_r \to E_r )\]
+
+<p>et</p>
+
+\[B_r / B_{r-1} = \mathop{\mathrm{\mathrm{Im}}}( E_r \to E_r ).\]
+
+<p>On pose alors (quand ça existe, ce qui sera toujours le cas pour nous)</p>
+
+\[Z_\infty = \cap_r Z_r \text{ et } B_\infty = \cup_r B_r\]
+
+<p>ainsi que</p>
+
+\[E_\infty = Z_\infty / B_\infty .\]
+
+<div class="mynotation">
+
+  <p><strong>Notation 11</strong>. En cas de dégénérescence à la page $r_0$, on note
+$E_{r_0} = E_\infty$.</p>
+
+</div>
+
+<h2 id="lemme-des-deux-filtrations">Lemme des deux filtrations</h2>
+
+<p>On revient au paragraphe 1.3.1 de (Deligne 1971). On travaille toujours
+dans une catégorie abélienne $\mathscr{A}$ et on se donne un complexe
+différentiel $K$ d’objets de $\mathscr{A}$, muni d’une filtration $F$.</p>
+
+<div class="mydef">
+
+  <p><strong>Définition 12</strong>. La filtration $F$ est dite <em>birégulière</em> si $F$
+induit une filtration finie sur chaque composante de $K$.</p>
+
+</div>
+
+<div class="myexample">
+
+  <p><strong>Example 13</strong>.</p>
+
+\[0 \longrightarrow \mathbf{Z}\longrightarrow \mathbf{Z}^2 \longrightarrow ... \longrightarrow \mathbf{Z}^d \longrightarrow ...\]
+
+  <p>où toutes les flèches sont nulles. (Revient à une filtrations par
+symboles.)</p>
+
+  <p>Non-exemple. Filtration sur $A$, infinie.</p>
+
+\[0 \longrightarrow A \overset{id}{\longrightarrow} A \longrightarrow 0\]
+
+</div>
+
+<p>La filtration $F$ induit une suite spectrale $E_r^{p,q} ( K , F )$ (a
+priori pas besoin qu’elle soit birrégulière).</p>
+
+<div class="mydef">
+
+  <p><strong>Définition 14</strong>. On pose</p>
+
+\[Z_r^{p,q} = \ker ( d : F^p ( K^{\textcolor{red}{p+q}} ) \to K^{\textcolor{red}{p+q}+1} / F^{p+r} ( K^{\textcolor{red}{p+q}+1} ) )\]
+
+  <p>et $B_r^{p,q}$ tel que</p>
+
+\[K^{\textcolor{red}{p+q}}  / B^{p,q}_r \simeq \mathop{\mathrm{\mathrm{coker}}}( d : F^{p-q+1} ( K ^{\textcolor{red}{p+q}-1} ) \to K^{\textcolor{red}{p+q}} / F^{p+1} ( K^{\textcolor{red}{p+q}} ) )\]
+
+  <p>de sorte que</p>
+
+\[E_r^{p,q} = \mathop{\mathrm{\mathrm{Im}}}( Z_r^{p,q} \to K^{\textcolor{red}{p+q}} /B_r^{p,q} ) = Z_r^{p,q} / (B_r^{p,q} \cap Z_r^{p,q} ) = \ker ( K^{\textcolor{red}{p+q}} / B^{p,q}_r  \to K^{\textcolor{red}{p+q}} / ( Z_r^{p,q} + B_r^{p,q} ) )  .\]
+
+</div>
+
+<p>Pour $r&lt;\infty$, les $E_r$ forment un complexe par le degré $p-r(p+q)$
+et $E_{r+1}$ s’exprime comme</p>
+
+\[H ( E_r^{p-r,q+r-1} \to E_r^{p,q} \to E^{p+r,q-r+1}_r ) .\]
+
+<p>Pour $r=0$ on a $E_0^{<em>,</em>} = \mathop{\mathrm{\mathrm{Gr}}}_F^* ( K^* )$.</p>
+
+<div class="myptn">
+
+  <p><strong>Proposition 15</strong>. <em>Soient $K$ et $F$ comme ci-avant. Les deux
+conditions suivantes sont équivalentes.</em></p>
+
+  <ol>
+    <li>
+      <p><em>La suite spectrale définie par $F$ dégénère $[E_1 = E_\infty ]$.</em></p>
+    </li>
+    <li>
+      <p><em>Les différentielles $d:K^ i \to K^ i+1$ sont strictement
+compatibles avec $F$.</em></p>
+    </li>
+  </ol>
+
+</div>
+
+<p>On conclut cet exposé en esquissant les idées de la suite. Etant données
+$W$ et $F$ deux filtrations avec $F$ birrégulière, l’idée sera de voir
+les conditions pour lesquelles trois filtrations $F_d$, $F_{d^*}$ et
+$F’$ coincident sur $E_r^{p,q} ( K , W )$.</p>
+
+<p>On parlera aussi de</p>
+
+\[H^q ( X , \Omega^p ) \Rightarrow H^{p+q} ( X , \mathbf{C}) .\]
+
+<h1 id="références">Références</h1>
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+  <div id="ref-deligne1971theorie" class="csl-entry">
+
+    <p>Deligne, Pierre. 1971. “Théorie de Hodge: II.” <em>Publications
+Mathématiques de l’IHÉS</em> 40: 5–57.</p>
+
+  </div>
+
+</div>
+
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        © Copyright 2023 Loïs  Faisant. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
+Last updated: October 30, 2023.
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/~faisantl/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script src="/~faisantl/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script src="/~faisantl/assets/js/common.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams',
+    displayMath: [             // start/end delimiter pairs for display math
+      ['$$', '$$'],
+      ['\\[', '\\]']],
+    inlineMath: [['$', '$'],             // start/end delimiter pairs for in-line math
+      ['\\(', '\\)']
+    ]
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+  </body>
+</html>
+
