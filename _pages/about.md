@@ -2,26 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www-fourier.ujf-grenoble.fr'>Institut Fourier</a>,  <a href='https://www.univ-grenoble-alpes.fr/'>Université Grenoble-Alpes</a>. 
+subtitle: IST Austria, Browning group. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Institut Fourier</p>
-    <p> UMR 5582 CNRS/Université Grenoble-Alpes </p>
-    <p>100, rue des Mathématiques </p>
-    <p> 38610 Gières </p>
-    <p> France </p>
+    <p> ISTA </p>
+    <p> Am Campus 1 </p>
+    <p> 3400 Klosterneuburg </p>
+    <p> Austria </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a young researcher in mathematics, soon working as an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
-in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), ISTA, from December 2023.
+I am a postdoc researcher in mathematics, working as an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
+in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), [IST Austria](https://ist.ac.at).
 
+(This website will migrate soon.)
 
 Previously, I completed my PhD under the supervision of <a href="https://www-fourier.univ-grenoble-alpes.fr/~peyre">Emmanuel Peyre</a> at Institut Fourier, Université Grenoble-Alpes. 
 
@@ -29,10 +29,8 @@ Previously, I completed my PhD under the supervision of <a href="https://www-fou
 
 - moduli spaces of curves 
 - rational points/curves on varieties and variants such as Campana points/curves
-- $$p$$-adic & motivic integration 
-- Grothendieck ring of varieties & related invariants 
+- $$p$$-adic/motivic integration & their applications
 - birational geometry & applications to arithmetics
-
 
 ## PhD thesis 
 
