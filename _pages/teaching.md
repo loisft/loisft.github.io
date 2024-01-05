@@ -7,7 +7,7 @@ nav: true
 ---
 
 ## university 
-During my PhD, I worked as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
+During my PhD (2020-2023), I worked as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
 
 #### 2022-2023
 MAT302, Approfondissements sur les séries et sur l'intégration (TD) <br />
