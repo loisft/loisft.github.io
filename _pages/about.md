@@ -25,10 +25,16 @@ Previously, I completed my PhD under the supervision of <a href="https://www-fou
 
 ## mathematical interests 
 
+My research lies at the intersection between algebraic geometry, number theory and motivic integration.
+I study geometric objects such as moduli spaces of curves on varieties, 
+using (which actually means also developping) motivic analogues of tools coming from algebraic or analytic number theory (valuation fields, harmonic analysis, circle method).
+
+Broadly speaking, I am interested in the following topics:
 - moduli spaces of curves and bundles
-- rational points/curves on varieties and variants such as Campana points/curves
-- $$p$$-adic/motivic integration, applications to geometry and arithmetics
+- rational points/curves on varieties and variants such as Campana points/curves (Manin's program and its variants)
+- $$p$$-adic/motivic integration, applications to geometry, topology and arithmetics
 - birational geometry, applications to arithmetics
+- analytic number theory, applications to algebraic geometry 
 
 
 ## contact     

@@ -54,5 +54,6 @@ nav: true
 - 2021.10.27 *Asymptotic behaviour of rational curves*, PhD Days, Institut Fourier
 - 2020.12.10 *Rational curves : asymptotic behaviour of moduli spaces*, [Comprehensible seminar (séminaire des doctorants de l'Institut Fourier)](https://www-fourier.univ-grenoble-alpes.fr/~beratcl/semcompr.php)
 
+
 ## additional stuff
 my [master 2 thesis](/assets/pdf/FAISANT_MemoireRendu150620.pdf) (in French).
