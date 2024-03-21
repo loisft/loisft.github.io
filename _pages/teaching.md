@@ -6,6 +6,12 @@ description: brief overview of my present and past teaching activities
 nav: true
 ---
 
+## ISTA 
+
+#### 2023-2024
+I am not teachning this year. 
+
+
 ## university 
 During my PhD (2020-2023), I worked as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
 

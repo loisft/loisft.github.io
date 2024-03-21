@@ -25,10 +25,15 @@ Previously, I completed my PhD under the supervision of <a href="https://www-fou
 
 ## mathematical interests 
 
-- moduli spaces of curves 
+- moduli spaces of curves and bundles
 - rational points/curves on varieties and variants such as Campana points/curves
-- $$p$$-adic/motivic integration, applications to arithmetics
+- $$p$$-adic/motivic integration, applications to geometry and arithmetics
 - birational geometry, applications to arithmetics
+
+
+## contact     
+
+Courriel : lois dot my name at ista.ac.at 
 
 ## PhD thesis 
 
@@ -43,10 +48,6 @@ Keywords: moduli space, rational curves, Fano varieties, motivic Euler product.
 ----- 
 
 Ce projet doctoral était financé par une allocation ministérielle <a href="https://www.polytechnique.edu">AMX</a>.
-
-## contact     
-
-Courriel : lois dot my name at ista.ac.at 
 
 ------ 
 

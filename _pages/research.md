@@ -24,9 +24,15 @@ nav: true
 ## talks 
 ### upcomming talks
 
--  2024.02.06 Séminaire Géométrie, LMV, Versailles 
+- 2024.04 Séminaire Algebra and Number Theory, Universität Wien
+- 2024.05/06 Séminaire en ligne Arithmetic Geometry and Algebraic Groups (date à préiser)
+- 2024.06 Séminaire de Géométrie, LAMA, Chambéry
+
 
 ### past talks 
+
+-  2024.02.06 Séminaire Géométrie, LMV, Versailles 
+
 
 -  2023.12.15 Séminaire Géométries, ICJ, Lyon
 -  2023.11.15 Browning Group Working Seminar, ISTA, Wien
@@ -49,4 +55,4 @@ nav: true
 - 2020.12.10 *Rational curves : asymptotic behaviour of moduli spaces*, [Comprehensible seminar (séminaire des doctorants de l'Institut Fourier)](https://www-fourier.univ-grenoble-alpes.fr/~beratcl/semcompr.php)
 
 ## additional stuff
-my [master 2 thesis](/~faisantl/assets/pdf/FAISANT_MémoireRendu150620.pdf) (in French).
+my [master 2 thesis](/~faisantl/assets/pdf/FAISANT_MemoireRendu150620.pdf) (in French).
