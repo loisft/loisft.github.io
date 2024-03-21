@@ -55,4 +55,4 @@ nav: true
 - 2020.12.10 *Rational curves : asymptotic behaviour of moduli spaces*, [Comprehensible seminar (séminaire des doctorants de l'Institut Fourier)](https://www-fourier.univ-grenoble-alpes.fr/~beratcl/semcompr.php)
 
 ## additional stuff
-my [master 2 thesis](/~faisantl/assets/pdf/FAISANT_MemoireRendu150620.pdf) (in French).
+my [master 2 thesis](/assets/pdf/FAISANT_MemoireRendu150620.pdf) (in French).
