@@ -2,12 +2,10 @@
 layout: page
 permalink: /research/
 title: research
-description: a short list of (pre)publicated research works and projects together with a selection of talks 
+description: a short list of research works and projects together with a selection of talks 
 years: [2022,2023]
 nav: true
 ---
-
-## preprints and publications
 
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -25,33 +23,38 @@ nav: true
 
 My PhD project concerned the study of stabilisation phenomena occuring in the moduli space of rational curves on a <i>nice variety</i> (typically, a Fano variety), 
 or more generally the moduli space of sections of a <i>nice family</i> above a smooth projective irreducible curve.
-I worked on a geometric analogue of the [Batyrev-Manin-Peyre conjectures](https://en.wikipedia.org/wiki/Manin_conjecture).
-The tools of motivic integration provide a nice framework to formulate this analogue;
-I studied, in a relevant ring of varities, the asymptotic behaviour of the class of the moduli space of curves of arbitrary large degree, for certain classes of varieties such as equivariant compactifications of groups or twisted products. My thesis also contains general predictions which are motivic analogues of the ones for rational points. 
+
+In my PhD thesis, I formulate a geometric/motivic analogue of the [Batyrev-Manin-Peyre conjectures](https://en.wikipedia.org/wiki/Manin_conjecture)
+unsing 
+the tools of motivic integration.
+One asks about the asymptotic behaviour, in a well-chosen ring of varities, of the class of the moduli space of curves of arbitrary large degree. 
+These predictions 
+have to be understood as questions or principles
+concerning the distribution of curves on Fano-like varieties. 
+
+Then I verify the validity of these predictions for certain classes of varieties such as equivariant compactifications (vector spaces, split torus) or twisted products obtained from them. 
 
 Keywords: moduli space, rational curves, Fano varieties, motivic Euler product. 
 
------ 
-
+<i>
 Ce projet doctoral était financé par une allocation ministérielle <a href="https://www.polytechnique.edu">AMX</a>.
-
------- 
+</i> 
 
 ## talks 
 ### upcomming talks
 
-- 2024.04 Séminaire Algebra and Number Theory, Universität Wien
-- 2024.05/06 Séminaire en ligne Arithmetic Geometry and Algebraic Groups (date à préiser)
-- 2024.06 Séminaire de Géométrie, LAMA, Chambéry
+- 2024.04.23 [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/), Universität Wien
+- 2024.05/06 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
+- 2024.06.27 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry
 
 
 ### past talks 
 
--  2024.02.06 Séminaire Géométrie, LMV, Versailles 
+-  2024.02.06 [Séminaire Géométrie](https://lmv.math.cnrs.fr/evenements/categorie/seminaire-ag/), LMV, Versailles 
 
 
 -  2023.12.15 Séminaire Géométries, ICJ, Lyon
--  2023.11.15 Browning Group Working Seminar, ISTA, Wien
+-  2023.11.15 Browning Group Working Seminar, ISTA, Klosterneuburg 
 -  2023.11.10 Séminaire de Géométrie, IMB, Bordeaux
 -  2023.10.26 Séminaire Algèbre Géométrie Algébrique Topologie Algébrique, IMAG, Montpellier 
 -  2023.10.20 Séminaire Variétés Rationnelles, Sorbonne Université, Paris 

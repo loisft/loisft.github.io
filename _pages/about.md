@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IST Austria, Browning group. 
+subtitle: Browning group, ISTA. 
 
 profile:
   align: right
@@ -33,7 +33,6 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 
 My research lies at the intersection between algebraic geometry and number theory. 
 
-
 I study geometric objects such as moduli spaces of curves on varieties, 
 using (which actually means also developping) motivic analogues of tools coming from algebraic or analytic number theory (theory of valuation rings, harmonic analysis, circle method, Cox rings and universal torsors...).
 
@@ -47,6 +46,6 @@ More broadly speaking, I am interested in the following topics:
 
 ## contact     
 
-lois dot my name at ista.ac.at 
+lois dot my last name at ista.ac.at 
 
 
