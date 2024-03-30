@@ -21,6 +21,22 @@ nav: true
 
 ---
 
+## PhD thesis 
+
+My PhD project concerned the study of stabilisation phenomena occuring in the moduli space of rational curves on a <i>nice variety</i> (typically, a Fano variety), 
+or more generally the moduli space of sections of a <i>nice family</i> above a smooth projective irreducible curve.
+I worked on a geometric analogue of the [Batyrev-Manin-Peyre conjectures](https://en.wikipedia.org/wiki/Manin_conjecture).
+The tools of motivic integration provide a nice framework to formulate this analogue;
+I studied, in a relevant ring of varities, the asymptotic behaviour of the class of the moduli space of curves of arbitrary large degree, for certain classes of varieties such as equivariant compactifications of groups or twisted products. My thesis also contains general predictions which are motivic analogues of the ones for rational points. 
+
+Keywords: moduli space, rational curves, Fano varieties, motivic Euler product. 
+
+----- 
+
+Ce projet doctoral était financé par une allocation ministérielle <a href="https://www.polytechnique.edu">AMX</a>.
+
+------ 
+
 ## talks 
 ### upcomming talks
 

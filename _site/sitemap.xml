@@ -5,7 +5,7 @@
 <lastmod>2022-08-06T18:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/news/2023_talk_CIRM/</loc>
+<loc>http://localhost:4000/news/2022_talk_CIRM/</loc>
 <lastmod>2022-12-16T17:00:00+01:00</lastmod>
 </url>
 <url>
@@ -29,8 +29,12 @@
 <lastmod>2023-07-26T18:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/news/2023_postdocISTA/</loc>
+<loc>http://localhost:4000/news/2023_postdocISTA%20copy/</loc>
 <lastmod>2023-09-01T18:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/2023_postdocISTA/</loc>
+<lastmod>2024-03-30T17:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2022/hodge-1/</loc>
