@@ -34,7 +34,8 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 My research lies at the intersection between algebraic geometry and number theory. 
 
 I study geometric objects such as moduli spaces of curves on varieties, 
-using (which actually means also developping) motivic analogues of tools coming from algebraic or analytic number theory (theory of valuation rings, harmonic analysis, circle method, Cox rings and universal torsors...).
+using (which actually means also developping) motivic analogues of tools coming from algebraic or analytic number theory (theory of valuation rings, harmonic analysis, circle method, Cox rings and universal torsors...). 
+Here is [a poster with some pictures](/assets/pdf/poster-motivic-distribution-of-curves.pdf) I made recently concerning motivic distribution of curves.
 
 More broadly speaking, I am interested in the following topics:
 - moduli spaces of curves, bundles...

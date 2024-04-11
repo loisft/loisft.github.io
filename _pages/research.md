@@ -2,9 +2,10 @@
 layout: page
 permalink: /research/
 title: research
-description: a short list of research works and projects together with a selection of talks 
+description: a list of research works and projects together with a selection of talks 
 years: [2022,2023]
 nav: true
+img: /assets/img/research.jpg
 ---
 
 <!-- _pages/publications.md -->
