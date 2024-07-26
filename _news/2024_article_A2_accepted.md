@@ -5,4 +5,4 @@ inline: true
 ---
 
 My second article <i> Motivic distribution of rational curves and twisted products of toric varieties </i>
-has been accepted for publication in ``Algebra & Number Theory''. It corresponds to the core of my PhD thesis. 
+has been accepted for publication in <i> Algebra & Number Theory </i>. It corresponds to the core of my PhD thesis. 

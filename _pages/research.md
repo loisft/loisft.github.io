@@ -44,13 +44,15 @@ Ce projet doctoral était financé par une allocation ministérielle <a href="ht
 ## talks 
 ### upcomming talks
 
-- 2024.04.23 [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/), Universität Wien
-- 2024.05/06 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
-- 2024.06.27 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry
+- 2024.11.21 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry
+- 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille
+- 2024.Fall Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
 
 
 ### past talks 
 
+
+- 2024.04.23 [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/), Universität Wien
 -  2024.02.06 [Séminaire Géométrie](https://lmv.math.cnrs.fr/evenements/categorie/seminaire-ag/), LMV, Versailles 
 
 
