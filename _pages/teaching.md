@@ -8,8 +8,12 @@ nav: true
 
 ## ISTA 
 
+#### 2024-2025
+During Spring 1, Tanguy Verent & I will teach together a ~12 lectures graduate course about ``Some Applications of $p$-adic Integration to Geometry and Arithmetics'' at ISTA. 
+
+
 #### 2023-2024
-I am not teachning this year. 
+I did not teach this year. 
 
 
 ## university 

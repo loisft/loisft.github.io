@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-30 12:00:00-0400
+date: 2023-09-01 12:00:00-0400
 inline: true
 ---
 
-In March 2024 I attended the workshop [Enumerative Geometry and Arithmetic](https://www.lorentzcenter.nl/enumerative-geometry-and-arithmetic.html)
-at Lorentz Center, Leiden. 
+In Fall 2023 I will be joining [Browning's group](https://ist.ac.at/en/research/browning-group/)
+at IST Austria as an [IST-BRIDGE fellow](https://ist.ac.at/en/education/postdocs/ist-bridge/).

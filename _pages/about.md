@@ -41,8 +41,8 @@ More broadly speaking, I am interested in the following topics:
 - moduli spaces of curves, bundles...
 - distribution of rational points/curves on varieties and variants such as Campana points/curves (Manin's program and its variants)
 - $$p$$-adic/motivic integration, applications to geometry, topology and arithmetics
-- birational geometry, applications to arithmetics
-- analytic number theory, applications to algebraic geometry 
+- applications of analytic number theory to algebraic geometry 
+- interplay between birational geometry and arithmetics. 
 
 
 ## contact     
