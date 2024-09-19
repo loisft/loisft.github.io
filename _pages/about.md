@@ -29,6 +29,8 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
 
+Profile picture by [Lena Ji 🧁](https://lji.web.illinois.edu/).
+
 ## mathematical interests 
 
 My research lies at the intersection between algebraic geometry and number theory. 
