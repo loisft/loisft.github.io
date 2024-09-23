@@ -15,6 +15,7 @@ During Spring 1, [Tanguy Vernet](https://sites.google.com/view/tanguy-vernet/) &
 #### 2023-2024
 I did not teach this year. 
 
+---
 
 ## university 
 During my PhD (2020-2023), I worked as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
@@ -48,6 +49,8 @@ MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br /
 <a href="https://www-fourier.univ-grenoble-alpes.fr/~parisse/#mat404">MAT404</a> 
 Algèbre bilinéaire, séries de Fourier, L2, TD  <br />  
 
+--- 
+
 ## preparatory classes 
 #### 2019-2020
 Oral examiner in mathematics, first year undergraduate students, Lycée Champollion, Grenoble. 
@@ -65,10 +68,13 @@ doit beaucoup aux enseignements d'Y. Duval, N. Tosel, A. Pommellet et bien d'aut
 Il contient un certain nombre de coquilles et de typos. 
 
 
+---
 
 ## high school 
 #### 2016-2017
 Teaching assistant for six months, Saint-Cyr-l’École Military High School. Maths and physics for high school and undergraduate students.
+
+---
 
 ## others
 <a href="https://mathsamodeler.ujf-grenoble.fr">Maths à Modeler</a>

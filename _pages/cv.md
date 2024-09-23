@@ -15,6 +15,8 @@ nav: true
 - Jun.2018-Aug.2018: image processing trainee engineer, [DxOMark](https://www.dxomark.com/)
 - Nov.2016-Mar.2017: teaching assistant, [Saint-Cyr-l'École Military High School](https://rh-terre.defense.gouv.fr/formation/lyceesmilitaires/lycee-militaire-de-saint-cyr-l-ecole)
 
+---
+
 ## education 
 - 2020-2023 : PhD in Mathematics, <a href="https://www.univ-grenoble-alpes.fr/">UGA</a>. Advisor: [E. Peyre](https://www-fourier.univ-grenoble-alpes.fr/~peyre). 
 - 2019-2020: [Second year of master degree (research), Algebraic Topology and Geometry](https://www-fourier.ujf-grenoble.fr/m2r/?q=content/academic-year-2019-2020), <a href="https://www-fourier.ujf-grenoble.fr/">Institut Fourier</a>, <a href="https://www.univ-grenoble-alpes.fr/">UGA</a>
@@ -23,7 +25,7 @@ nav: true
 - 2013-2016: Scientific preparatory classes (maths & physics), <a href="https://www.louislegrand.fr">Lycée Louis-le-Grand</a>, Paris
 - 2013: Baccalauréat scientifique, <a href="https://www.m2navarre.net/">Lycée Marguerite-de-Navarre</a>, Bourges
 
-
+---
 
 ## instances (FR)
 
