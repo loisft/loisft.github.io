@@ -12,6 +12,8 @@ profile:
     <p> Am Campus 1 </p>
     <p> 3400 Klosterneuburg </p>
     <p> Austria </p>
+    <p> </p>
+    <p> lois dot faisant at ista.ac.at </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -45,10 +47,4 @@ More broadly speaking, I am interested in the following topics:
 - $$p$$-adic/motivic integration, applications to geometry, topology and arithmetics
 - applications of analytic number theory to algebraic geometry 
 - interplay between birational geometry and arithmetics. 
-
-
-## contact     
-
-lois dot my last name at ista.ac.at 
-
 

@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /talks/
-title: tals
+title: talks
 description: 
 years: [2022,2023]
 nav: true
-img: /assets/img/research.jpg
+img:  
 
 ---
 
