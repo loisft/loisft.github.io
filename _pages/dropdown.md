@@ -4,7 +4,7 @@ title: other
 nav: true
 dropdown: true
 children: 
-    - title: creative coding
+    - title: coding
     #  permalink: /creative-coding/
     - title: photography
     #  permalink: /photography/
