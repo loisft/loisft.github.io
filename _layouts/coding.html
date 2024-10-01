@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<!-- page.html -->
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <div id="script-target" class="post-content">
+    {% if page.include_scripts %}
+      {% for include_script in page.include_scripts %}
+        <script type="text/javascript" src="{{ include_script }}"></script>
+      {% endfor %}
+    {% endif %}
+    {{ content }}
+  </div>
+</div>
