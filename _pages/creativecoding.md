@@ -19,5 +19,6 @@ where $$(x,y,z)\in \mathbf{Z}^3_\mathrm{prim}$$
 and we randomly and uniformly pick a certain number of points of height at most $B$. 
 You can make this number of points vary with the third cursor. 
 
+The second cursor controls a certain value $B_\mathrm{small} \leqslant B$ and the script plots in red the points of height at most $B_\mathrm{small}$.
 
-The second cursor controls a certain value $B_\mathrm{small} \leqslant B$ and the scripts plots in red the points of height at most $B_\mathrm{small}$.
+This script is inspired by [E.Peyre's beautiful illustrations](https://www-fourier.ujf-grenoble.fr/~peyre/images/index.php). 

@@ -49,11 +49,11 @@ to its former students. /
 Ce projet doctoral était financé par une allocation ministérielle <a href="https://www.polytechnique.edu">AMX</a>.
 </i> 
 
-## Further work in preparation / On-going projects
+## On-going projects
 
-- <i>Motivic couting of curves using universal torsors </i>, in prepartion.
+- <i>Motivic couting of curves using universal torsors </i>, in preparation.
 - <i>A Poisson formula for algebraic tori and applications to motivic zeta functions </i>, joint work with M.Bilu, in preparation.
-- <i>Motivic delta method and diagonal forms</i>, joint with T.Browning. 
+- <i>Motivic delta method and diagonal forms</i>, joint project with T.Browning. 
 - <i>On triples of squareful polynomials over function fields in positive characteristic<i>, joint work with A.Mirzaee, in preparation. 
 - <i>Counting representations of quivers</i>, joint project with T.Vernet. 
 - <i>Motivic Eisenstein series and distribution of curves on flag varieties</i>, joint project with M.Bilu.
