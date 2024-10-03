@@ -8,7 +8,7 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <div id="script-target" class="post-content">
+  <div class="post-content">
     {% if page.include_scripts %}
       {% for include_script in page.include_scripts %}
         <script type="text/javascript" src="{{ include_script }}"></script>
@@ -16,4 +16,7 @@ layout: default
     {% endif %}
     {{ content }}
   </div>
+
+<div id="script-target">
+    <!-- Le canevas sera placé ici par le script -->
 </div>

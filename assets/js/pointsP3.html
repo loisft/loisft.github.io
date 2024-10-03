@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rational points on P3.</title>
+    <!-- Inclure la bibliothèque P5.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+        /* Définir une taille spécifique pour le conteneur du canevas */
+        #script-target {
+            width: 800px;
+            height: 800px;
+            /* Suppression de la bordure noire */
+        }
+
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    Rational points of P^3 of height at most six.
+
+    <div id="script-target">
+        <!-- Le canevas sera placé ici par le script -->
+    </div>
+
+    <script>
+        let points = [];
+        let pointSize = 5; // Taille des points dessinés
+        const width = 600;
+        const height = 600;
+
+        function setup() {
+          let targetDiv = select('#script-target'); // Sélectionne la cible
+          let canvas = createCanvas(width, height, WEBGL); // Créer un canevas en 3D
+          canvas.parent('script-target'); // Place le canevas dans le conteneur cible
+          updatePoints();
+        }
+
+        function draw() {
+          clear();
+          orbitControl();
+          rotateX(frameCount * 0.005);
+          rotateY(frameCount * 0.005);
+
+          for (let p of points) {
+            push();
+            fill(255, 0, 0);
+            noStroke();
+            translate(p[0].x * width / 2, p[0].y * height / 2, p[0].z * height / 2); // Ajuster l'échelle pour la visualisation
+            sphere(pointSize / sqrt(p[1])); // Dessiner une sphère pour représenter le point
+            pop();
+          }
+        }
+
+        function updatePoints(B = 6) {
+          points = []; // Réinitialiser les points
+          for (let x = -B; x <= B; x++) {
+            for (let y = -B; y <= B; y++) {
+              for (let z = -B; z <= B; z++) {
+                for (let w = -B; w <= B; w++) {
+                  if (areCoprime(x, y, z, w) && !(x === 0 && y === 0 && z === 0)) {
+                    H = max(abs(x), abs(y), abs(z), abs(w));
+                    points.push([createVector(x / H, y / H, z / H), H]);
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        function areCoprime(a, b, c, d) {
+          return gcd(gcd(gcd(abs(a), abs(b)), abs(c)), abs(d)) === 1;
+        }
+
+        function gcd(a, b) {
+          while (b !== 0) {
+            let temp = b;
+            b = a % b;
+            a = temp;
+          }
+          return a;
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+          // Cibler le div avec l'ID 'script-target'
+          var targetDiv = document.getElementById('script-target');
+          if (targetDiv) {
+            // Ajoute du contenu ou manipule le contenu ici
+            targetDiv.innerHTML; // += '<p>Contenu ajouté par le script JS.</p>';
+          }
+        });
+    </script>
+</body>
+
+Use your the mouse to change the perspective and zoom in/out.
+
+</html>

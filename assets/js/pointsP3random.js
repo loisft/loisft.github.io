@@ -10,8 +10,8 @@ let Bmax = 12;
 let Nmin = Bmin*Bmin*Bmin*Bmin;
 let Nmax = Bmax*Bmax*Bmax*Bmax;
 
-width = 800;
-height = 800;
+width = 400;
+height = 400;
 
 function setup() {
   createCanvas(width, height, WEBGL); // Créer un canevas en 3D
@@ -32,8 +32,8 @@ function setup() {
 
 function draw() {
   background(255);
-  rotateX(frameCount * 0.01);
-  rotateY(frameCount * 0.01);
+  rotateX(frameCount * 0.005);
+  rotateY(frameCount * 0.005);
   
   // Dessiner les points
   for (let p of points) {

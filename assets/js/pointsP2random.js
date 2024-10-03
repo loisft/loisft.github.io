@@ -38,7 +38,7 @@ function setup() {
   BmaxSlider.parent(container);
   BmaxSlider.input(updatePoints); // Update points when B changes
   createElement('br').parent(container);
-  let Bmax = BmaxSlider.value;
+  let Bmax = BmaxSlider.value();
   //createElement(Bmax).parent(container);
 
   createElement('br').parent(container);
@@ -47,7 +47,7 @@ function setup() {
   let bLabel = createElement('label', 'Points of small height');
   bLabel.parent(container);
   createElement('br').parent(container);
-  BSlider = createSlider(BMin, BMax/2, (BMin + BMax) / 4); 
+  BSlider = createSlider(BMin, BmaxSlider.value(), (BMin + BmaxSlider.value()) / 2); 
   BSlider.parent(container);
   BSlider.input(draw); // Redraw points when B changes
   createElement('br').parent(container);
@@ -67,7 +67,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  clear();
   // Draw the points
   for (let p of points) {
     let H=max(abs(p[0]),abs(p[1]),abs(p[2]));
@@ -136,6 +136,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
   if (targetDiv) {
     // Ajoute du contenu ou manipule le contenu ici
-    targetDiv.innerHTML //+= '<p>Contenu ajouté par le script JS.</p>';
+    targetDiv.innerHTML;//+= '<p>Contenu ajouté par le script JS.</p>';
   }
 });
