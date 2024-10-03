@@ -11,10 +11,11 @@ let Nmax = BMax * BMax * BMax;
 
 let width = 500;
 let height = 500;
+let del=20;
 
 function setup() {
   let targetDiv = select('#script-target'); // Sélectionne le div cible
-  let canvas = createCanvas(width, height);
+  let canvas = createCanvas(width + del , height + del);
   canvas.background('background-color');
   canvas.parent(targetDiv); // Place le canvas dans le conteneur cible
 
@@ -82,12 +83,7 @@ function draw() {
     fill(R,G,B);
     noStroke();
     let point=createVector(p[0]/H,p[1]/H);
-    if(p[0]*p[0]+p[1]*p[1]-p[2]*p[2]==0){
-      ellipse(width / 2 + point.x * width / 2, height / 2 - point.y * height / 2, pointSize*5/sqrt(H), pointSize*5/sqrt(H)); // Use pointSize
-    }
-    else{
-      ellipse(width / 2 + point.x * width / 2, height / 2 - point.y * height / 2, pointSize*5/sqrt(H), pointSize*5/sqrt(H)); // Use pointSize
-    }
+    ellipse((width + del) / 2 + point.x * width / 2, (height + del) / 2 - point.y * height / 2, pointSize*5/sqrt(H), pointSize*5/sqrt(H)); // Use pointSize
   }
 }
 
