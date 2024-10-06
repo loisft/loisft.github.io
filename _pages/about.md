@@ -50,7 +50,7 @@ More broadly speaking, I am interested in the following topics:
 
 ---
 
-## a few links 
+## links 
 
 - [Browning Group](https://ist.ac.at/en/research/browning-group/)
 - [Mathematics at ISTA](https://mathematics.pages.ist.ac.at/research/)
@@ -62,3 +62,5 @@ More broadly speaking, I am interested in the following topics:
 
 ## contact 
 lois dot faisant at ista.ac.at 
+
+---
