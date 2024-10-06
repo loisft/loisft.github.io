@@ -12,9 +12,6 @@ profile:
     <p> Am Campus 1 </p>
     <p> 3400 Klosterneuburg </p>
     <p> Austria </p>
-    <p> </p>
-    <p> lois dot faisant at ista.ac.at </p>
-
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -34,6 +31,8 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 
 Profile picture by [Lena Ji 🧁](https://lji.web.illinois.edu/).
 
+---
+
 ## mathematical interests 
 
 My research lies at the intersection between algebraic geometry and number theory. 
@@ -49,6 +48,8 @@ More broadly speaking, I am interested in the following topics:
 - applications of analytic number theory to algebraic geometry 
 - interplay between birational geometry and arithmetics. 
 
+---
+
 ## a few links 
 
 - [Browning Group](https://ist.ac.at/en/research/browning-group/)
@@ -56,3 +57,8 @@ More broadly speaking, I am interested in the following topics:
 - [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/) at ISTA
 - [Algebraic Geometry and Number Theory Seminar](https://algebraic-geometry.pages.ist.ac.at/) at ISTA
 - [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/) at UniWien
+
+---
+
+## contact 
+lois dot faisant at ista.ac.at 
