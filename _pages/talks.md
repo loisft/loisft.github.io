@@ -60,6 +60,7 @@ img:
 - [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy, 9-13 September 2024.
 - [JAVA 2024 - IRRATIONALITY, UNRAMIFIED COHOMOLOGY AND HYPERSURFACES](https://webusers.imj-prg.fr/~marco.maculan/java/), Maison Clément, France, 8-12 July 2024.
 - [Conférence ÉPIGA](https://epiga.episciences.org/page/2024-epiga-conference-on-algebraic-geometry), Jussieu, Paris, France, 10-14 juin 2024. 
+- [Topology and arithmetic of moduli spaces of curves](https://mgn-in-mpl.sciencesconf.org/), Montpellier, France, 13-17 May 2024.
 - [Enumerative Geometry and Arithmetic](https://www.lorentzcenter.nl/enumerative-geometry-and-arithmetic.html), Lorentz Center,
 Leiden, the Netherlands, March 11-15, 2024.
 - [Graz-ISTA Number Theory Days](https://sites.google.com/view/gntd/start), TU Graz, Austria, February 1st, 2024.
