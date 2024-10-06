@@ -1,7 +1,7 @@
 ---
 layout: page
 title: other
-nav: true
+nav: false
 dropdown: true
 children: 
     - title: photography

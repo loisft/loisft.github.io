@@ -22,7 +22,7 @@ img:
 ## past talks 
 
 ### 2024
-- 2024.09.13 [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy
+- 2024.09.13 [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy. <i>  From point counting to motivic distribution of rational curves on Fano varieties. </i>
 - 2024.05.22 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/) Expository talk: (Ir)Rationality of motivic zeta functions of varieties: curves with no rational point
 - 2024.04.23 [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/), Universität Wien
 -  2024.02.06 [Séminaire Géométrie](https://lmv.math.cnrs.fr/evenements/categorie/seminaire-ag/), LMV, Versailles 
@@ -49,9 +49,16 @@ img:
 
 --- 
 
+## events I am going to attend 
+- [Birational Geometry and Number Theory](https://www.icms.org.uk/workshops/2024/birational-geometry-and-number-theory), ICMS, Bayes Centre, Edinburgh, UK, 28 Oct - 01 Nov 2024.
+
+--- 
+
 ## events I attended 
 
 ### 2024
+- [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy, 9-13 September 2024.
+- [JAVA 2024 - IRRATIONALITY, UNRAMIFIED COHOMOLOGY AND HYPERSURFACES](https://webusers.imj-prg.fr/~marco.maculan/java/), Maison Clément, France, 8-12 July 2024.
 - [Conférence ÉPIGA](https://epiga.episciences.org/page/2024-epiga-conference-on-algebraic-geometry), Jussieu, Paris, France, 10-14 juin 2024. 
 - [Enumerative Geometry and Arithmetic](https://www.lorentzcenter.nl/enumerative-geometry-and-arithmetic.html), Lorentz Center,
 Leiden, the Netherlands, March 11-15, 2024.
