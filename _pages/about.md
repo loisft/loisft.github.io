@@ -49,3 +49,10 @@ More broadly speaking, I am interested in the following topics:
 - applications of analytic number theory to algebraic geometry 
 - interplay between birational geometry and arithmetics. 
 
+## a few links 
+
+- [Browning Group](https://ist.ac.at/en/research/browning-group/)
+- [Mathematics at ISTA](https://mathematics.pages.ist.ac.at/research/)
+- [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/) at ISTA
+- [Algebraic Geometry and Number Theory Seminar](https://algebraic-geometry.pages.ist.ac.at/) at ISTA
+- [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/) at UniWien
