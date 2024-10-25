@@ -12,6 +12,7 @@ img:
 ## upcomming talks
 
 - 2024.11.12 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
+- 2024.11.18 [Séminaire Algèbre et Géométrie](https://www-fourier.ujf-grenoble.fr/?q=fr/content/lo%C3%AFs-faisant-0), Institut Fourier, Grenoble
 - 2024.11.21 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry
 - 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille
 
