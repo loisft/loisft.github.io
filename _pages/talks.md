@@ -11,9 +11,6 @@ img:
 
 ## upcomming talks
 
-- 2024.11.12 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
-- 2024.11.15 [Séminaire Géométrie et Topologie](https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr/page/seminaire-geometrie-et-topologie), LMBA, Brest, France
-- 2024.11.18 [Séminaire Algèbre et Géométrie](https://www-fourier.ujf-grenoble.fr/?q=fr/content/lo%C3%AFs-faisant-0), Institut Fourier, Grenoble, France
 - 2024.11.21 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry, France
 - 2024.11.27 [Séminaire de Géométrie](https://cmls.ip-paris.fr/recherche/geometrie-et-dynamique/seminaire-de-geometrie), CMLS, École polytechnique, France
 - 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
@@ -25,6 +22,9 @@ img:
 ## past talks 
 
 ### 2024
+- 2024.11.18 [Séminaire Algèbre et Géométrie](https://www-fourier.ujf-grenoble.fr/?q=fr/content/lo%C3%AFs-faisant-0), Institut Fourier, Grenoble, France
+- 2024.11.15 [Séminaire Géométrie et Topologie](https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr/page/seminaire-geometrie-et-topologie), LMBA, Brest, France
+- 2024.11.12 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
 - 2024.09.13 [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy. <i>  From point counting to motivic distribution of rational curves on Fano varieties. </i>
 - 2024.05.22 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/) Expository talk: (Ir)Rationality of motivic zeta functions of varieties: curves with no rational point
 - 2024.04.23 [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/), Universität Wien
