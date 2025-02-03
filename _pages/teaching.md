@@ -10,14 +10,17 @@ nav: true
 
 #### 2024-2025
 During Spring 1, [Tanguy Vernet](https://sites.google.com/view/tanguy-vernet/) & I will teach together a ~12 lectures graduate course about ``Some Applications of $p$-adic Integration to Geometry and Arithmetics'' at ISTA. 
-
+It will be composed of three parts:
+- Basics of $p$-adic integration towards Batyrev's theorem
+- Denef's formula and resolution of singularities
+- Adelic spaces: integration, Fourier analysis, and applications to counting problems
 
 #### 2023-2024
 I did not teach this year. 
 
 ---
 
-## university 
+## Université Grenoble Alpes 
 During my PhD (2020-2023), I worked as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
 
 #### 2022-2023
