@@ -12,7 +12,7 @@ profile:
     <p> Am Campus 1 </p>
     <p> 3400 Klosterneuburg </p>
     <p> Austria </p>
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 

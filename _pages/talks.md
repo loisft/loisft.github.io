@@ -11,17 +11,17 @@ img:
 
 ## upcomming talks
 
-- 2024.11.21 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry, France
-- 2024.11.27 [Séminaire de Géométrie](https://cmls.ip-paris.fr/recherche/geometrie-et-dynamique/seminaire-de-geometrie), CMLS, École polytechnique, France
-- 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
-
-- 2024.12 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
+- 2025 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
+- 2026.03.23-26 Resarch School at CIRM about Cox rings and applications (TBC)
 
 --- 
  
 ## past talks 
 
 ### 2024
+- 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
+- 2024.11.27 [Séminaire de Géométrie](https://cmls.ip-paris.fr/recherche/geometrie-et-dynamique/seminaire-de-geometrie), CMLS, École polytechnique, France
+- 2024.11.21 [Séminaire de Géométrie](https://www.lama.univ-savoie.fr/seminars/geo), LAMA, Chambéry, France
 - 2024.11.18 [Séminaire Algèbre et Géométrie](https://www-fourier.ujf-grenoble.fr/?q=fr/content/lo%C3%AFs-faisant-0), Institut Fourier, Grenoble, France
 - 2024.11.15 [Séminaire Géométrie et Topologie](https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr/page/seminaire-geometrie-et-topologie), LMBA, Brest, France
 - 2024.11.12 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
@@ -50,16 +50,16 @@ img:
 - 2021.10.27 *Asymptotic behaviour of rational curves*, PhD Days, Institut Fourier
 - 2020.12.10 *Rational curves : asymptotic behaviour of moduli spaces*, [Comprehensible seminar (séminaire des doctorants de l'Institut Fourier)](https://www-fourier.univ-grenoble-alpes.fr/~beratcl/semcompr.php)
 
---- 
-
-## events I am going to attend 
-- [Birational Geometry and Number Theory](https://www.icms.org.uk/workshops/2024/birational-geometry-and-number-theory), ICMS, Bayes Centre, Edinburgh, UK, 28 Oct - 01 Nov 2024.
 
 --- 
 
-## events I attended 
+## events I attended  
+
+### 2025 
+- [Research school - Logarithmic and non-archimdedean methods in singularity theory](https://conferences.cirm-math.fr/3267.html), CIRM, France, Jan.27-31, 2025.
 
 ### 2024
+- [Birational Geometry and Number Theory](https://www.icms.org.uk/workshops/2024/birational-geometry-and-number-theory), ICMS, Bayes Centre, Edinburgh, UK, 28 Oct - 01 Nov 2024.
 - [Fano Varieties in Cetraro](https://www.maths.ed.ac.uk/cheltsov/cetraro/), Grand Hotel San Michele, Cetraro, Italy, 9-13 September 2024.
 - [JAVA 2024 - IRRATIONALITY, UNRAMIFIED COHOMOLOGY AND HYPERSURFACES](https://webusers.imj-prg.fr/~marco.maculan/java/), Maison Clément, France, 8-12 July 2024.
 - [Conférence ÉPIGA](https://epiga.episciences.org/page/2024-epiga-conference-on-algebraic-geometry), Jussieu, Paris, France, 10-14 juin 2024. 
