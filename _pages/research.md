@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: a list of research works and projects
-years: [2022,2023]
+years: [2022,2023,2024,2025]
 nav: true
 img: /assets/img/research.jpg
 ---
