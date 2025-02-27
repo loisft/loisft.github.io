@@ -18,7 +18,7 @@ It will be composed of three parts:
 
 Lectures : Tuesdays and Thursdays 
 
-Preliminary version of the notes for [lectures 1-2](/assets/pdf/_Teaching_notes__Some_applications_of_p_adic_integration_to_geometry_and_arithmetics___Lectures_1_2.pdf)
+Preliminary version of the notes for [lectures 1-2](/assets/pdf/2025_Spring-1-Lecture-Notes-1-2.pdf.pdf)
 
 #### 2023-2024
 I did not teach this year. 
