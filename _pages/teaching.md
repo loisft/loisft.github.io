@@ -18,7 +18,7 @@ It will be composed of three parts:
 
 Lectures : Tuesdays and Thursdays 
 
-Preliminary version of the notes for [lectures 1-2](/assets/pdf/2025_Spring-1-Lecture-Notes-1-2.pdf.pdf)
+Preliminary version of the notes for [lectures 1-2](/assets/pdf/2025_Spring_1_Lecture_Notes_1_2.pdf)
 
 #### 2023-2024
 I did not teach this year. 
