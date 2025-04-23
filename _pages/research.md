@@ -20,6 +20,17 @@ img: /assets/img/research.jpg
 
 ---
 
+## In preparation 
+
+- <i>On the classical and motivic Manin-Peyre conjectures for quintic
+del Pezzo surfaces over function fields</i>, with Christian Bernet and Jakob Glas
+- <i>A Poisson formula for split algebraic tori and applications to motivic
+zeta functions</i>, with Margaret Bilu
+- <i>Motivic delta method for cubic hypersurfaces</i>, with Tim Browning
+- <i>On triples of squareful polynomials in positive characteristic</i>, with Ali Mirzaee
+
+---
+
 ## PhD thesis 
 
 My PhD project,

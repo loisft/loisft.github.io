@@ -11,8 +11,12 @@ img:
 
 ## upcomming talks
 
-- 2025 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/) (TBC)
-- 2026.03.23-26 Resarch School at CIRM about Cox rings and applications (TBC)
+- 2025.05.06 [Bath Arithmetic Geometry Seminar](https://sites.google.com/view/bath-arithmetic-geom-seminar/home), UK.
+- 2025.05. [Research Seminar Algebra, Number Theory and Discrete Mathematics](https://www.iazd.uni-hannover.de/en/activities/research-seminar), Hannover, Germany.
+- 2025.05.20 [Algebraic Geometry Seminar @ Utrecht University](https://sites.google.com/site/soumya3sankar/organization/ag-seminar-uu), NL.
+- 2025.06.20 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/)
+
+- 2026.03.23-26 Resarch School at CIRM about Cox rings and applications
 
 --- 
  
