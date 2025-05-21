@@ -11,9 +11,6 @@ img:
 
 ## upcomming talks
 
-- 2025.05.06 [Bath Arithmetic Geometry Seminar](https://sites.google.com/view/bath-arithmetic-geom-seminar/home), UK.
-- 2025.05. [Research Seminar Algebra, Number Theory and Discrete Mathematics](https://www.iazd.uni-hannover.de/en/activities/research-seminar), Hannover, Germany.
-- 2025.05.20 [Algebraic Geometry Seminar @ Utrecht University](https://sites.google.com/site/soumya3sankar/organization/ag-seminar-uu), NL.
 - 2025.06.20 Online Seminar [Arithmetic Geometry and Algebraic Groups](https://seminaragag.github.io/)
 
 - 2026.03.23-26 Resarch School at CIRM about Cox rings and applications
@@ -21,6 +18,12 @@ img:
 --- 
  
 ## past talks 
+
+### 2025 
+- 2025.05.20 [Algebraic Geometry Seminar @ Utrecht University](https://sites.google.com/site/soumya3sankar/organization/ag-seminar-uu), NL.
+- 2025.05.15 [Research Seminar Algebra, Number Theory and Discrete Mathematics](https://www.iazd.uni-hannover.de/en/activities/research-seminar), Hannover, Germany.
+- 2025.05.06 [Bath Arithmetic Geometry Seminar](https://sites.google.com/view/bath-arithmetic-geom-seminar/home), UK.
+- 2025.03.20 [Séminaire de Théorie des Nombres](https://www-fourier.ujf-grenoble.fr/?q=fr/content/lo%C3%AFs-faisant-1), Institut Fourier, Grenoble, France.
 
 ### 2024
 - 2024.11.28 [Séminaire d'Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
