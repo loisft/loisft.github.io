@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv 
-description: a short resume, a more detailled one is available on request
+description: a short resume, a more detailled one is available [here](/assets/FAISANT_CV_2025.pdf).
 nav: true
 ---
 
