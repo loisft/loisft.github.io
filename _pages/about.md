@@ -24,14 +24,15 @@ working as an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/)
 in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), 
 [IST Austria](https://ist.ac.at).
 
-From Fall 2025, I will be a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra). 
+From October 2025, I will be a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
 
 I completed my PhD in Summer 2023,
 under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpes.fr/~peyre) at 
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
 
-Profile picture by [Lena Ji 🧁](https://lji.web.illinois.edu/).
+My profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/).
 
 ## mathematical interests 
 
