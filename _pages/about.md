@@ -6,7 +6,7 @@ subtitle: Browning group, ISTA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-2.jpg
   address: >
     <p> ISTA </p>
     <p> Am Campus 1 </p>
