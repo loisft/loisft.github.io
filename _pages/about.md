@@ -8,24 +8,28 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p> Section of Algebra </p>
+    <p> Department of Mathematics </p>
+    <p> KU Leuven </p>
+    <p> Celestijnenlaan 200B bus 2400 </p>
+    <p> B-3001 Leuven </p>
+    <p> Belgium </p> 
     <p> ISTA </p>
-    <p> Am Campus 1 </p>
-    <p> 3400 Klosterneuburg </p>
-    <p> Austria </p>
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 ---
 
-Since December 2023, I am a postdoc researcher in mathematics, 
-working as an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
+
+Since October 2025, I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
+
+Before that, 
+I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
 & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
 in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), 
-[IST Austria](https://ist.ac.at).
-
-From October 2025, I will be a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
-mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
+[ISTA](https://ist.ac.at).
 
 I completed my PhD in Summer 2023,
 under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpes.fr/~peyre) at 
@@ -36,18 +40,15 @@ My profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/).
 
 ## mathematical interests 
 
-My research lies at the intersection between algebraic geometry and number theory. 
+Motivic aspects of a certain number of topics in
+- algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...);
+- analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry;
+- model theory (motivic integration). 
 
-I study geometric objects such as moduli spaces of curves on varieties, 
-using (which actually means also developping) motivic analogues of tools coming from algebraic or analytic number theory (theory of valuation rings, harmonic analysis, circle method, Cox rings and universal torsors...). 
-Here is [a poster with some pictures](/assets/pdf/poster-motivic-distribution-of-curves.pdf) I made recently concerning motivic distribution of curves.
-
-More broadly speaking, I am interested in the following topics:
-- moduli spaces of curves, bundles...
-- distribution of rational points/curves on varieties and variants such as Campana points/curves (Manin's program and its variants)
-- $$p$$-adic/motivic integration, applications to geometry, topology and arithmetics
-- applications of analytic number theory to algebraic geometry 
-- interplay between birational geometry and arithmetics. 
+## upcoming events
+- [Non-Archimedean geometry](https://www.mathconf.org/nag2025) in Lille, October 6th-10th, 2025
+- [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
+- [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
 
 ---
 
