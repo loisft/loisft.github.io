@@ -14,7 +14,6 @@ profile:
     <p> Celestijnenlaan 200B bus 2400 </p>
     <p> B-3001 Leuven </p>
     <p> Belgium </p> 
-    <p> ISTA </p>
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -43,7 +42,7 @@ My profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/).
 Motivic aspects of a certain number of topics in
 - algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...);
 - analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry;
-- model theory (motivic integration). 
+- logic: model theory for motivic integration. 
 
 ## upcoming events
 - [Non-Archimedean geometry](https://www.mathconf.org/nag2025) in Lille, October 6th-10th, 2025
