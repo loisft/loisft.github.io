@@ -43,7 +43,7 @@ Motivic aspects of a certain number of topics in
 - algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...);
 - analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry;
 - logic: model theory for motivic integration. 
-
+ 
 ## upcoming events
 - [Non-Archimedean geometry](https://www.mathconf.org/nag2025) in Lille, October 6th-10th, 2025
 - [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
@@ -68,6 +68,6 @@ Motivic aspects of a certain number of topics in
 ---
 
 ## contact 
-lois dot faisant at ista.ac.at 
+my-first-name dot my-last-name at kuleuven.be
 
 ---
