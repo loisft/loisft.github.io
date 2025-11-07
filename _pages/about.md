@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Browning group, ISTA. 
+subtitle: KU Leuven
 
 profile:
   align: right
