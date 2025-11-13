@@ -9,7 +9,7 @@ img:
 
 ---
 
-## upcomming talks
+## upcoming talks
 
 
 - 2025.12.03 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
