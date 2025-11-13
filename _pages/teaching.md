@@ -9,14 +9,14 @@ nav: true
 ## ISTA 
 
 #### 2024-2025
-During Spring 1, [Tanguy Vernet](https://sites.google.com/view/tanguy-vernet/) & I will teach together a graduate course (12 lectures) about ``Some Applications of $p$-adic Integration to Geometry and Arithmetics'' at ISTA. 
-It will be composed of three parts:
+During Spring 1, [Tanguy Vernet](https://sites.google.com/view/tanguy-vernet/) & I taught together a graduate course (12 lectures) about ``Some Applications of $p$-adic Integration to Geometry and Arithmetics'' at ISTA. 
+It was divided into three parts:
 - Basics of $p$-adic integration towards Batyrev's theorem 
 - Denef's formula and resolution of singularities
 - Adelic spaces: integration, Fourier analysis, and applications to counting problems
 
 
-Lectures : Tuesdays and Thursdays 
+Lectures happened on Tuesdays and Thursdays.
 
 [Preliminary version of the lecture notes.](/assets/pdf/2025_Teaching-p-adic-integration.pdf)
 
