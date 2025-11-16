@@ -35,7 +35,7 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
 
-I graduated from [École Polytechnique](https://www.polytechnique.edu/) in 2020. 
+I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). 
 
 My profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/).
 
