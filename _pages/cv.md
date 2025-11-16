@@ -3,10 +3,9 @@ layout: page
 permalink: /cv/
 title: cv 
 description: a short resume
-nav: true
+nav: false
 ---
 
-A more detailled CV is available [here](/assets/pdf/FAISANT_CV_2025.pdf).
 
 ## experience
 
