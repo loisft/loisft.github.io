@@ -37,7 +37,7 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 
 I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). 
 
-My profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/).
+<!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
 
 ## mathematical interests 
 
