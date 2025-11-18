@@ -41,10 +41,15 @@ I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 
 
 ## mathematical interests 
 
-Motivic aspects of a certain number of topics in
+Classical and motivic aspects of a certain number of topics in
 - algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...);
-- analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry;
-- logic: model theory for motivic integration. 
+- analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry and arithmetics;
+- logic: model theory for motivic integration and applications to arithmetics.
+
+## contact 
+my-first-name dot my-last-name at kuleuven.be
+
+---
  
 ## some upcoming events 
 - [Géométrie et Théorie des Modèles](https://gtm.imj-prg.fr/), Paris, December 12th, 2025 
@@ -52,32 +57,5 @@ Motivic aspects of a certain number of topics in
 - [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
 - [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
 - Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
-- Workshop ANR AdAnAr, 2026 CMLS, École polytechnique, France, 18-22 May, 2026
+- Workshop ANR AdAnAr, CMLS, École polytechnique, France, 18-22 May, 2026
 - 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026. 
-
----
-
-## links 
-
-KU Leuven
-- [Algebra Section](https://wis.kuleuven.be/algebra/)
-- [Seminar Number Theory and Algebraic Geometry](https://wis.kuleuven.be/algebra/calendar-sem-ntag)
-- [Arithmétique en Plat Pays / Getaltheorie in het Vlakke Land](https://mathconf.org/app-gvl-autumn2025)
-
-ISTA
-- [Browning Group](https://ist.ac.at/en/research/browning-group/)
-- [Mathematics at ISTA](https://mathematics.pages.ist.ac.at/research/)
-- [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/) at ISTA
-- [Algebraic Geometry and Number Theory Seminar](https://algebraic-geometry.pages.ist.ac.at/) at ISTA
-- [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/) at UniWien
-
-France
-- [Étude scientifique sur la précarité financière des doctorants à l'UGA](https://doctorat.univ-grenoble-alpes.fr/actualites-du-doctorat/etude-scientifique-sur-la-precarite-financiere-des-doctorants-uga-1176629.kjsp), par [P. Mercklé](https://www.pacte-grenoble.fr/fr/pierre-merckle) (Pacte) et [P. Bataille](https://www.larac.fr/larac-members/bataille-pierre) (LaRAC), 2022. 
-- [R.A.S. (jusqu'ici tu vas bien ?)](https://www.youtube.com/watch?v=xKH7Dpkclao)
-
----
-
-## contact 
-my-first-name dot my-last-name at kuleuven.be
-
----
