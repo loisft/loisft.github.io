@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: 
+description: Talks I will give or I gave + some events I attended 
 years: 
 nav: true
 img:  
@@ -14,9 +14,11 @@ img:
 
 - 2025.12.03 [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/academic-year-2023-24/), ISTA, Klosterneuburg, Austria
 - 2025.12.10 [Seminar Number Theory and Algebraic Geometry](https://wis.kuleuven.be/algebra/calendar-sem-ntag), KU Leuven, Belgium
+- 2025.12.12 [Géométrie et Théorie des Modèles](https://gtm.imj-prg.fr/), Paris, 2025 
 - 2025.12.18 [Séminaire Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
 
-- 2026.03.23-26 [Resarch School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF)
+- 2026.03.2X [Resarch School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF) 23–27 March, 2026
+- 2026.05.1X Workshop ANR AdAnAr, 18-22 May, 2026 CMLS, École polytechnique, France 
 
 --- 
  
@@ -68,6 +70,7 @@ img:
 ## events I attended  
 
 ### 2025 
+- [Non-Archimedean geometry](https://www.mathconf.org/nag2025) in Lille, October 6th-10th, 2025
 - [Research school - Logarithmic and non-archimdedean methods in singularity theory](https://conferences.cirm-math.fr/3267.html), CIRM, France, Jan.27-31, 2025.
 
 ### 2024

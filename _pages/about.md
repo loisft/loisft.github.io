@@ -46,10 +46,14 @@ Motivic aspects of a certain number of topics in
 - analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry;
 - logic: model theory for motivic integration. 
  
-## upcoming events
-- [Non-Archimedean geometry](https://www.mathconf.org/nag2025) in Lille, October 6th-10th, 2025
+## some upcoming events 
+- [Géométrie et Théorie des Modèles](https://gtm.imj-prg.fr/), Paris, December 12th, 2025 
+- [Arithmétique en Plat Pays : Journée automnale / Getaltheorie in het Vlakkeland : Herfstdag](https://mathconf.org/app-gvl-autumn2025) December 15th, ULB, 2025
 - [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
 - [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
+- Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
+- Workshop ANR AdAnAr, 2026 CMLS, École polytechnique, France, 18-22 May, 2026
+- 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026. 
 
 ---
 
