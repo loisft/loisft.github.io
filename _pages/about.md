@@ -16,7 +16,7 @@ profile:
     <p> Belgium </p> 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 
 ---
 
@@ -42,12 +42,18 @@ I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 
 ## mathematical interests 
 
 Classical and motivic aspects of a certain number of topics in
-- algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...);
+- algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...), stacks of G-bundles;
 - analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry and arithmetics;
 - logic: model theory for motivic integration and applications to arithmetics.
 
 ## contact 
 my-first-name dot my-last-name at kuleuven.be
+
+In my native language (French), my first name is gender neutral. 
+
+Its pronouciation is close to that of Louis in English but is different: in ˈluːɪs you have to replace uː by əʊ (like the final o in tomato) to get ˈləʊɪs (and pronounce the final s if you did not).
+
+My English pronouns are he/him/they/them. You can write to me in English, French, Spanish or Italian using the corresponding gender. 
 
 ---
  

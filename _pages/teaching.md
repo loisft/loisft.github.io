@@ -6,6 +6,31 @@ description: brief overview of my present and past teaching activities
 nav: true
 ---
 
+## KU Leuven 
+
+#### 2025-2026
+
+This year I am teaching an ``Advanced Reading Course'' aimed at master students. 
+
+<i>
+Studying rational points on cubic hypersurfaces via the delta method 
+</i>
+
+<i>
+The delta method is a technique developed to study the existence and distribution of non-trivial solutions to low-degree equations (in our case, cubic forms) with as few variables as possible. It is a variant of the so-called circle method in which the study of major and minor arcs is replaced by the use of a Poisson formula, in order to improve the bound on the number of variables needed to make the technique work. In this context, good estimates for exponential sums play an important role. We will treat in parallel the case of rationals/number fields and function fields in positive characteristic. 
+</i>
+
+References
+
+[1] D.R. Heath-Brown. "Cubic Forms in Ten Variables." Proceedings of the London Mathematical Society, Volume s3-47, Issue 2, September 1983, Pages 225–257, https://doi.org/10.1112/plms/s3-47.2.225
+
+[2] T. D. Browning & P. Vishe. "Rational points on cubic hypersurfaces over F_q (t)." Geometric and functional analysis, 2015, vol. 25, no 3, p. 671-732.
+
+[3]  T. D. Browning. & P. Vishe. "Cubic hypersurfaces and a version of the circle method for number fields." Duke Math. J. 163 (10) 1825 - 1883, 15 July 2014. https://doi.org/10.1215/00127094-2738530
+
+
+--- 
+
 ## ISTA 
 
 #### 2024-2025
