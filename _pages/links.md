@@ -30,4 +30,5 @@ nav: true
 ## Diversity and inclusion 
 - [Eugenia Cheng's inclusivity manifesto](https://eugeniacheng.com/inclusivity/)
 - [Slides of Olga Paris-Romaskevich's talk at CARE](https://amubox.univ-amu.fr/s/SBRqbTLHSG5PFMF)
+- [Marta Pieropan's page on DEI](https://webspace.science.uu.nl/~piero001/index_diversity.html)
 - [Tribune sur La mobilité heureuse](https://olivier.garet.xyz/texte_mobilite.php)

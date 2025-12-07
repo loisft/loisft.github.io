@@ -50,10 +50,8 @@ Classical and motivic aspects of a certain number of topics in
 my-first-name dot my-last-name at kuleuven.be
 
 In my native language (French), my first name is gender neutral. 
-
 Its pronouciation is close to that of Louis in English but is different: in ˈluːɪs you have to replace uː by əʊ (like the final o in tomato) to get ˈləʊɪs (and pronounce the final s if you did not).
-
-My English pronouns are he/him/they/them. You can write to me in English, French, Spanish or Italian using the corresponding gender. 
+My pronouns in English are he/him/his/they/them/their. You can write to me in English, French, Spanish or Italian. 
 
 ---
  
