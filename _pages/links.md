@@ -24,6 +24,8 @@ nav: true
 - [École doctorale MSTII](https://edmstii.univ-grenoble-alpes.fr/)
 - [Étude scientifique sur la précarité financière des doctorants à l'UGA](https://doctorat.univ-grenoble-alpes.fr/actualites-du-doctorat/etude-scientifique-sur-la-precarite-financiere-des-doctorants-uga-1176629.kjsp), par [P. Mercklé](https://www.pacte-grenoble.fr/fr/pierre-merckle) (Pacte) et [P. Bataille](https://www.larac.fr/larac-members/bataille-pierre) (LaRAC), 2022. 
 - [R.A.S. (jusqu'ici tu vas bien ?)](https://www.youtube.com/watch?v=xKH7Dpkclao)
+- [Maths à Modeler](https://mathsamodeler.univ-grenoble-alpes.fr/)
+
 
 --- 
 

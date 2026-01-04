@@ -112,8 +112,6 @@ Teaching assistant for six months, Saint-Cyr-l’École Military High School. Ma
 ## Students 
 
 Summer 2024: Ali Mirzaee (co-supervised with Matteo Verzobio).
+Summer 2025: Melody Dawson 
 
 --- 
-
-## others
-<a href="https://mathsamodeler.ujf-grenoble.fr">Maths à Modeler</a>

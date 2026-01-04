@@ -6,7 +6,7 @@ subtitle: KU Leuven
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p> Section of Algebra </p>
     <p> Department of Mathematics </p>
@@ -56,8 +56,6 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 ---
  
 ## some upcoming events 
-- [Géométrie et Théorie des Modèles](https://gtm.imj-prg.fr/), Paris, December 12th, 2025 
-- [Arithmétique en Plat Pays : Journée automnale / Getaltheorie in het Vlakkeland : Herfstdag](https://mathconf.org/app-gvl-autumn2025) December 15th, ULB, 2025
 - [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
 - [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
 - Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
