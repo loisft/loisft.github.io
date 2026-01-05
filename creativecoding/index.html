@@ -2,16 +2,17 @@
 <html lang="fr">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://loisft.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Loïs  Faisant | Page not found</title>
+    <title>Loïs  Faisant | creative coding</title>
     <meta name="author" content="Loïs  Faisant" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Personnal webpage. 
+" />
     <meta name="keywords" content="geometric/motivic Manin conjecture, motivic integration" />
 
 
@@ -32,7 +33,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>➰</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://loisft.github.io/404.html">
+    <link rel="canonical" href="https://loisft.github.io/creativecoding/">
     
     <!-- Dark Mode -->
     
@@ -72,8 +73,8 @@
               
 
               <!-- Other pages -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/creativecoding/">creative coding</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/creativecoding/">creative coding<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/links/">links</a>
@@ -104,18 +105,40 @@
     <!-- Content -->
     <div class="container mt-5">
       <!-- page.html -->
-        <div class="post">
-          <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
-          </header>
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">creative coding</h1>
+    <p class="post-description"></p>
+  </header>
 
-          <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://loisft.github.io/">here</a>.</p>
+  <div class="post-content">
+    
+      
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+      
+        <script type="text/javascript" src="/assets/js/pointsP2random.js"></script>
+      
+    
+    <p>Here is a representation of some rational points on the projective plane.
+More precisely, the first cursor provides a value $B$ for the bound on the height</p>
 
-          </article>
+\[H ( [ x : y : z  ]) = \mathrm{max} ( | x | , | y | , | z |)\]
 
-        </div>
+<p>where \((x,y,z)\in \mathbf{Z}^3_\mathrm{prim}\)
+and we randomly and uniformly pick a certain number of points of height at most $B$. 
+You can make this number of points vary with the third cursor.</p>
+
+<p>The second cursor controls a certain value $B_\mathrm{small} \leqslant B$ and the script plots in red the points of height at most $B_\mathrm{small}$.</p>
+
+<p>This script is inspired by <a href="https://www-fourier.ujf-grenoble.fr/~peyre/images/index.php" target="_blank" rel="noopener noreferrer">E.Peyre’s beautiful illustrations</a>.</p>
+
+<p>You will find <a href="/assets/js/pointsP3.html">here</a> a similar figure for the 3-dimensional projective space.</p>
+
+  </div>
+
+<div id="script-target">
+    <!-- Le canevas sera placé ici par le script -->
+</div>
 
     </div>
 
@@ -163,6 +186,6 @@ Last updated: January 05, 2026.
   <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
     
-  </body>
+  </div></body>
 </html>
 
