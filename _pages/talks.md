@@ -67,6 +67,10 @@ img:
 --- 
 
 ## events I attended  
+### 2026
+- Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
+- [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
+- [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
 
 ### 2025 
 - [Arithmétique en Plat Pays : Journée automnale / Getaltheorie in het Vlakkeland : Herfstdag](https://mathconf.org/app-gvl-autumn2025) December 15th, ULB, 2025

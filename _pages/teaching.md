@@ -111,6 +111,7 @@ Teaching assistant for six months, Saint-Cyr-l’École Military High School. Ma
 
 ## Students 
 
+First semester 2026: Bachelor thesis of Martti Elvisto 
 Summer 2024: Ali Mirzaee (co-supervised with Matteo Verzobio).
 Summer 2025: Melody Dawson 
 

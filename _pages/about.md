@@ -37,14 +37,18 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 
 I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). 
 
+Picture by [Matilde Maccan](https://matildemaccan.github.io/). 
+
 <!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
 
 ## mathematical interests 
 
-Classical and motivic aspects of a certain number of topics in
-- algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...), stacks of G-bundles;
-- analytic number theory: circle method, harmonic analysis, zeta functions and their applications to geometry and arithmetics;
+I work in arithmetic geometry. I am interested in a certain number of topics:
+- algebraic geometry: Cox rings and applications (distribution of rational points on varieties, moduli spaces of curves, ...); G-bundles over a curve;
+- analytic number theory: circle method, harmonic analysis, zeta functions, especially the developpement of their motivic versions and their applications to geometry and arithmetics;
 - logic: model theory for motivic integration and applications to arithmetics.
+
+See the "Research" page for a list of works. 
 
 ## contact 
 my-first-name dot my-last-name at kuleuven.be
@@ -56,8 +60,5 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 ---
  
 ## some upcoming events 
-- [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026
-- [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
-- Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
 - Workshop ANR AdAnAr, CMLS, École polytechnique, France, 18-22 May, 2026
 - 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026. 
