@@ -34,3 +34,9 @@ nav: true
 - [Slides of Olga Paris-Romaskevich's talk at CARE](https://amubox.univ-amu.fr/s/SBRqbTLHSG5PFMF)
 - [Marta Pieropan's page on DEI](https://webspace.science.uu.nl/~piero001/index_diversity.html)
 - [Tribune sur La mobilité heureuse](https://olivier.garet.xyz/texte_mobilite.php)
+
+---
+
+## Photography
+Sometimes I take pictures, for example during math events and my colleagues use them on their webpage, like: [Hamid Abban](https://sites.google.com/view/hamid-abban), [Fabio Bernasconi](https://sites.google.com/view/fabio-bernasconi/), [Matilde Maccan](https://matildemaccan.github.io/) [Robert Śmiech](https://sites.google.com/view/robertsmiech/), [Sofian Tur-Dorvault](https://sites.google.com/view/sofiantur-dorvault/accueil?authuser=0), ... 
+
