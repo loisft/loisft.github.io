@@ -22,7 +22,9 @@ social: false  # includes social icons at the bottom of the page
 
 
 Since October 2025, I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
-mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). In September 2026 I will be moving back to France as <i>Maître de Conférence</i>. 
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
+
+<!-- In September 2026 I will be moving back to France as <i>Maître de Conférence</i>. -->
 
 Before that, 
 I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
