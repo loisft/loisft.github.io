@@ -10,14 +10,17 @@ img:
 ---
 
 ## upcoming talks
-
-
-- 2026.03.2X [Resarch School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF) 23–27 March, 2026
-- 2026.05.1X Workshop ANR AdAnAr, 18-22 May, 2026 CMLS, École polytechnique, France 
+- 2026.07.02 Journée de l'équipe AGA, Université de Lille, France 
 
 --- 
  
 ## past talks 
+
+### 2026 
+- 2026.05.21 [Workshop ANR AdAnAr](https://sites.google.com/view/adanar2026/adanar-2026/talks), 18-22 May, 2026 CMLS, École polytechnique, France 
+- 2026.04.28 [Séminaire Théorie des Nombres](https://indico.math.cnrs.fr/event/16143/), Université de Limoges, France
+- 2026.03.2X [Resarch School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF) 23–27 March, 2026
+
 
 ### 2025 
 - 2025.12.18 [Séminaire Arithmétique](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique), Laboratoire Paul Painlevé, Lille, France 
@@ -68,6 +71,7 @@ img:
 
 ## events I attended  
 ### 2026
+- Workshop ANR AdAnAr, CMLS, École polytechnique, France, 18-22 May, 2026
 - Arithmetic of fields: model theory, valuations, and geometry, CIRM, April 6th-10th, 2026
 - [Cox rings and applications](https://conferences.cirm-math.fr/3488.html) Research Schoor, CIRM, March 23rd-27th, 2026
 - [Motives in Montpellier](https://imag.umontpellier.fr/~tomic/school2026/) Winter School, January 19th-23rd, 2026

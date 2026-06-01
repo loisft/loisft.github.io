@@ -22,13 +22,14 @@ social: false  # includes social icons at the bottom of the page
 
 
 Since October 2025, I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
-mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). In September 2026 I will be moving back to France as <i>Maître de Conférence</i>. 
 
 Before that, 
 I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
 & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
 in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), 
 [ISTA](https://ist.ac.at).
+
 
 I completed my PhD in Summer 2023,
 under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpes.fr/~peyre) at 
@@ -60,5 +61,5 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 ---
  
 ## some upcoming events 
-- Workshop ANR AdAnAr, CMLS, École polytechnique, France, 18-22 May, 2026
-- 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026. 
+- 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026.
+- Journée de l'équipe AGA, Lille, 2 juillet 2026. 
