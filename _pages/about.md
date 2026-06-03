@@ -40,9 +40,6 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 
 I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). 
 
-Picture by [Matilde Maccan](https://matildemaccan.github.io/). 
-
-<!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
 
 ## mathematical interests 
 
@@ -52,6 +49,8 @@ I work in arithmetic geometry. I am interested in a certain number of topics:
 - logic: model theory for motivic integration and applications to arithmetics.
 
 See the "Research" page for a list of works. 
+
+--- 
 
 ## contact 
 my-first-name dot my-last-name at kuleuven.be
@@ -65,3 +64,9 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 ## some upcoming events 
 - 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026.
 - Journée de l'équipe AGA, Lille, 2 juillet 2026. 
+
+---
+
+Profile picture by [Matilde Maccan](https://matildemaccan.github.io/). 
+
+<!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->

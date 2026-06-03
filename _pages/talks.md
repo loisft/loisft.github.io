@@ -19,7 +19,7 @@ img:
 ### 2026 
 - 2026.05.21 [Workshop ANR AdAnAr](https://sites.google.com/view/adanar2026/adanar-2026/talks), 18-22 May, 2026 CMLS, École polytechnique, France 
 - 2026.04.28 [Séminaire Théorie des Nombres](https://indico.math.cnrs.fr/event/16143/), Université de Limoges, France
-- 2026.03.2X [Resarch School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF) 23–27 March, 2026
+- 2026.03.2X [Research School at CIRM about Cox rings and applications](https://conferences.cirm-math.fr/3488.html) (État de la recherche SMF) 23–27 March, 2026
 
 
 ### 2025 
