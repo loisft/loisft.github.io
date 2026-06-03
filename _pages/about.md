@@ -48,9 +48,7 @@ I work in arithmetic geometry. I am interested in a certain number of topics:
 - analytic number theory: circle method, harmonic analysis, zeta functions, especially the developpement of their motivic versions and their applications to geometry and arithmetics;
 - logic: model theory for motivic integration and applications to arithmetics.
 
-See the "Research" page for a list of works. 
-
---- 
+See the "Research" page for a list of works.  
 
 ## contact 
 my-first-name dot my-last-name at kuleuven.be
@@ -59,7 +57,6 @@ In my native language (French), my first name is gender neutral.
 Its pronouciation is close to that of Louis in English but is different: in ˈluːɪs you have to replace uː by əʊ (like the final o in tomato) to get ˈləʊɪs (and pronounce the final s if you did not).
 My pronouns in English are he/him/his/they/them/their. You can write to me in English, French, Spanish or Italian. 
 
----
  
 ## some upcoming events 
 - 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026.
