@@ -21,10 +21,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Since October 2025, I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
+Since October 2025 I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
 mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
+From September 2026 I will be <i>maître de conférence</i> at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), in the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
 
-<!-- In September 2026 I will be moving back to France as <i>Maître de Conférence</i>. -->
 
 Before that, 
 I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
@@ -38,8 +38,7 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
 
-I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). 
-
+<!-- I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). -->
 
 ## mathematical interests 
 
@@ -64,6 +63,6 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 
 ---
 
-Profile picture by [Matilde Maccan](https://matildemaccan.github.io/). 
+Picture by [Matilde Maccan](https://matildemaccan.github.io/). 
 
 <!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
