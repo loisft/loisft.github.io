@@ -42,7 +42,7 @@ nav: true
 
 ---
 
-## Youngs researchers: mental health, expatriation, ... (FR/ENG/...)
+## Young researchers: mental health, expatriation, ... (FR/ENG/...)
 
 - [Mental Health in Academia: Shedding light on those who provide support](https://elifesciences.org/articles/64739) by Elsa Loissel 
 - [A recolection of articles](https://elifesciences.org/collections/ad8125f3/mental-health-in-academia), by Elsa Loissel, around mental health in academia 
