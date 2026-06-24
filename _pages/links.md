@@ -42,6 +42,17 @@ nav: true
 
 ---
 
+## Youngs researchers: mental health, expatriation, ... (FR/ENG/...)
+
+- [Mental Health in Academia: Shedding light on those who provide support](https://elifesciences.org/articles/64739) by Elsa Loissel 
+- [A recolection of articles](https://elifesciences.org/collections/ad8125f3/mental-health-in-academia), by Elsa Loissel, around mental health in academia 
+- [Les jeunes chercheurs face au dilemme de l’expatriation](https://www.lemonde.fr/campus/article/2024/03/19/partir-a-l-etranger-ou-rester-en-france-coute-que-coute-le-dilemme-des-jeunes-chercheurs_6222827_4401467.html?search-type=classic&ise_click_rank=4), par Séverin Graveleau, Le Monde du 19/03/2024
+- Recueil de propos : [« La France est un pays sans avenir pour les jeunes chercheurs » : à l’université, le désarroi des nouveaux docteurs](https://www.lemonde.fr/campus/article/2021/09/28/la-france-est-un-pays-sans-avenir-pour-les-jeunes-chercheurs-a-l-universite-le-desarroi-des-nouveaux-docteurs_6096268_4401467.html) par Alice Raybaud, Le Monde du 28/09/2021 
+- [Recours massif aux enseignants précaires : « La réalité, c’est que l’université n’a plus les moyens de fonctionner »](https://www.lemonde.fr/campus/article/2024/10/22/recours-massif-aux-enseignants-precaires-la-realite-c-est-que-l-universite-n-a-plus-les-moyens-de-fonctionner_6357910_4401467.html?search-type=classic&ise_click_rank=13) par Alice Raybaud, Le Monde du 22/10/2024 
+
+
+--- 
+
 ## Photography
 Sometimes I take pictures, for example during math events and my colleagues use/used them on their webpage, like: [Hamid Abban](https://sites.google.com/view/hamid-abban), [Fabio Bernasconi](https://sites.google.com/view/fabio-bernasconi/), [Matilde Maccan](https://matildemaccan.github.io/) (formerly), [Robert Śmiech](https://sites.google.com/view/robertsmiech/), [Sofian Tur-Dorvault](https://sites.google.com/view/sofiantur-dorvault/accueil?authuser=0), ... 
 
