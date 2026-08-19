@@ -48,7 +48,7 @@ I work in arithmetic geometry. I am interested in a certain number of topics:
 See the "Research" page for a list of works.  
 
 ## contact 
-my-first-name dot my-last-name at kuleuven.be
+my-first-name dot my-last-name at univ-lille.fr
 
 In my native language (French), my first name is gender neutral. 
 Its pronouciation is close to that of Louis in English but is different: in ˈluːɪs you have to replace uː by əʊ (like the final o in tomato) to get ˈləʊɪs (and pronounce the final s if you did not).
