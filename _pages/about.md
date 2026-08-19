@@ -61,6 +61,6 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 
 ---
 
-Picture by [Matilde Maccan](https://matildemaccan.github.io/). 
+Picture by Joël Charles-Rebufé. 
 
-<!-- My previous profile picture was taken by [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
+<!-- My previous profile pictures was taken by by [Matilde Maccan](https://matildemaccan.github.io/) and [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
