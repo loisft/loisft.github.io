@@ -20,13 +20,11 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-
-Since October 2025 I am a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
-mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/). 
-From September 2026 I will be <i>maître de conférence</i> at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), where I will join the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
+Starting from September 2026 I will be <i>maître de conférence</i> (assistant professor) at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), joining the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
 
 
-Before that, 
+Before that, I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/).
 I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
 & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
 in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), 
