@@ -20,8 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am <i>maître de conférence</i> (assistant professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
- at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/). 
+I am <i>maître de conférence</i> (assistant professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/). 
 
 <!--
 Before that, I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
