@@ -57,8 +57,7 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 
  
 ## some upcoming events 
-- 6th International Workshop on Zeta Functions in Algebra and Geometry, University of Galway, Ireland, 8–12 June 2026.
-- Journée de l'équipe AGA, Lille, 2 juillet 2026. 
+- Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille) à Lille, 15 octobre 2026.
 
 ---
 
