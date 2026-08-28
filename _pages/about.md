@@ -8,21 +8,22 @@ profile:
   align: right
   image: prof_pic.jpeg
   address: >
-    <p> Section of Algebra </p>
-    <p> Department of Mathematics </p>
-    <p> KU Leuven </p>
-    <p> Celestijnenlaan 200B bus 2400 </p>
-    <p> B-3001 Leuven </p>
-    <p> Belgium </p> 
+    <p> Laboratoire Paul Painlevé </p>
+    <P> & UFR de Mathématiques </p>
+    <p> Bâtiment M3 </p>
+    <p> Cité Scientifique </p>
+    <p> 59655 Villeneuve-d'Ascqa </p>
+    <p> France </p>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 ---
 
-Starting from September 2026 I will be <i>maître de conférence</i> (assistant professor) at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), joining the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
+I am <i>maître de conférence</i> (assistant professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique). 
+ at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/). 
 
-
+<!--
 Before that, I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
 mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/).
 I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
@@ -36,7 +37,7 @@ under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpe
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
 
-<!-- I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). -->
+ I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). -->
 
 ## mathematical interests 
 
