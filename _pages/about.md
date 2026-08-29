@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: KU Leuven
+subtitle: Université de Lille
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <P> & UFR de Mathématiques </p>
     <p> Bâtiment M3 </p>
     <p> Cité Scientifique </p>
-    <p> 59655 Villeneuve-d'Ascqa </p>
+    <p> 59655 Villeneuve-d'Ascq </p>
     <p> France </p>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
