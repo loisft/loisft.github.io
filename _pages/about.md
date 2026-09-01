@@ -20,23 +20,19 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am <i>maître de conférences</i> (assistant professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/). 
+I am <i>maître de conférences</i> (assistant professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), since September 2026. 
 
-<!--
-Before that, I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
-mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/).
-I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
+Before that,
+- I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
+mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/);
+- I was an [IST-BRIDGE](https://ist.ac.at/en/education/postdocs/ist-bridge/) 
 & [Marie Skłodowska-Curie fellow](https://cordis.europa.eu/project/id/101034413/en)
 in [Tim Browning's group](https://ist.ac.at/en/research/browning-group/), 
-[ISTA](https://ist.ac.at).
-
-
-I completed my PhD in Summer 2023,
+[ISTA](https://ist.ac.at);
+- I completed my PhD in Summer 2023,
 under the supervision of [Emmanuel Peyre](https://www-fourier.univ-grenoble-alpes.fr/~peyre) at 
 [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr),
 [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). 
-
- I graduated from [École polytechnique](https://www.polytechnique.edu/) in 2020 (X2016). -->
 
 ## mathematical interests 
 
