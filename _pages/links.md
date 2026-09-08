@@ -42,6 +42,12 @@ nav: true
 
 ---
 
+## AI and proof formalisation 
+- [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
+- [Proofs and Prompts](https://proofsandprompts.com/)
+
+--- 
+
 ## Young researchers
 mental health, expatriation, ... (FR/ENG/...)
 
