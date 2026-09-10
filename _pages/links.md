@@ -42,9 +42,11 @@ nav: true
 
 ---
 
-## AI and proof formalisation 
+## LLMs and proof formalisation 
 - [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
 - [Proofs and Prompts](https://proofsandprompts.com/)
+- [Andreas Thom's Mathstodon post](https://mathstodon.xyz/@andreasthom/117240535270608201) 
+- [Tristan Buckmaster 's statement](https://cims.nyu.edu/~tristanb/statement.pdf)
 
 --- 
 
