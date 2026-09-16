@@ -34,11 +34,12 @@ nav: true
 
 --- 
 
-## Diversity and inclusion 
+## Diversity and inclusion in maths & academia 
 - [Eugenia Cheng's inclusivity manifesto](https://eugeniacheng.com/inclusivity/)
 - [Slides of Olga Paris-Romaskevich's talk at CARE](https://amubox.univ-amu.fr/s/SBRqbTLHSG5PFMF)
 - [Marta Pieropan's page on DEI](https://webspace.science.uu.nl/~piero001/index_diversity.html)
 - [Tribune sur La mobilité heureuse](https://olivier.garet.xyz/texte_mobilite.php)
+- [Kyne Santos's youtube channel](https://www.youtube.com/onlinekyne)
 
 ---
 
