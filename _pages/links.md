@@ -11,27 +11,6 @@ nav: true
 - [Séminaire "Arithmétique"](https://math.univ-lille.fr/agenda/seminaires/seminaire-arithmetique)
 - [Séminaire "Géométrie Algébrique"](https://math.univ-lille.fr/agenda/seminaires/seminaire-geometrie-algebrique)
 
-## KU Leuven
-- [Algebra Section](https://wis.kuleuven.be/algebra/)
-- [Seminar Number Theory and Algebraic Geometry](https://wis.kuleuven.be/algebra/calendar-sem-ntag)
-- [Arithmétique en Plat Pays / Getaltheorie in het Vlakke Land](https://mathconf.org/app-gvl-autumn2025)
-
-## ISTA
-- [Browning Group](https://ist.ac.at/en/research/browning-group/)
-- [Mathematics at ISTA](https://mathematics.pages.ist.ac.at/research/)
-- [Browning Group Working Seminar](https://number-theory.pages.ist.ac.at/) at ISTA
-- [Algebraic Geometry and Number Theory Seminar](https://algebraic-geometry.pages.ist.ac.at/) at ISTA
-- [Algebra and Number Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/seminar-algebra-and-number-theory/) at UniWien
-
-## UGA
-- [Institut Fourier](https://www-fourier.univ-grenoble-alpes.fr/)
-- [UFRIM2AG](https://im2ag.univ-grenoble-alpes.fr/)
-- [École doctorale MSTII](https://edmstii.univ-grenoble-alpes.fr/)
-- [Étude scientifique sur la précarité financière des doctorants à l'UGA](https://doctorat.univ-grenoble-alpes.fr/actualites-du-doctorat/etude-scientifique-sur-la-precarite-financiere-des-doctorants-uga-1176629.kjsp), par [P. Mercklé](https://www.pacte-grenoble.fr/fr/pierre-merckle) (Pacte) et [P. Bataille](https://www.larac.fr/larac-members/bataille-pierre) (LaRAC), 2022. 
-- [R.A.S. (jusqu'ici tu vas bien ?)](https://www.youtube.com/watch?v=xKH7Dpkclao)
-- [Maths à Modeler](https://mathsamodeler.univ-grenoble-alpes.fr/)
-
-
 --- 
 
 ## Diversity and inclusion in maths & academia 
@@ -40,6 +19,7 @@ nav: true
 - [Marta Pieropan's page on DEI](https://webspace.science.uu.nl/~piero001/index_diversity.html)
 - [Tribune sur La mobilité heureuse](https://olivier.garet.xyz/texte_mobilite.php)
 - [Kyne Santos's youtube channel](https://www.youtube.com/onlinekyne)
+- [R.A.S. (jusqu'ici tu vas bien ?)](https://www.youtube.com/watch?v=xKH7Dpkclao)
 
 ---
 
@@ -57,6 +37,7 @@ nav: true
 ## Young researchers
 mental health, expatriation, ... (FR/ENG/...)
 
+- [Étude sur la précarité financière des doctorants à l'UGA](https://doctorat.univ-grenoble-alpes.fr/actualites-du-doctorat/etude-scientifique-sur-la-precarite-financiere-des-doctorants-uga-1176629.kjsp), par [P. Mercklé](https://www.pacte-grenoble.fr/fr/pierre-merckle) (Pacte) et [P. Bataille](https://www.larac.fr/larac-members/bataille-pierre) (LaRAC), 2022. 
 - [Mental Health in Academia: Shedding light on those who provide support](https://elifesciences.org/articles/64739) by Elsa Loissel 
 - [A recollection of articles](https://elifesciences.org/collections/ad8125f3/mental-health-in-academia), by Elsa Loissel, around mental health in academia 
 - [Les jeunes chercheurs face au dilemme de l’expatriation](https://www.lemonde.fr/campus/article/2024/03/19/partir-a-l-etranger-ou-rester-en-france-coute-que-coute-le-dilemme-des-jeunes-chercheurs_6222827_4401467.html?search-type=classic&ise_click_rank=4), par Séverin Graveleau, Le Monde du 19/03/2024
