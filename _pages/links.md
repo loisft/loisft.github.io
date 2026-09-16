@@ -46,6 +46,9 @@ nav: true
 ## LLMs and proof formalisation 
 - [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
 - [Proofs and Prompts](https://proofsandprompts.com/)
+- [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
+- [The Association for Human Mathematics (AHM)](https://www.ahmath.org/)
+- [Position of the SMF board on the recent announcements of OpenAI (FR/ENG)](https://smf.emath.fr/node/3699662)
 - [Andreas Thom's Mathstodon post](https://mathstodon.xyz/@andreasthom/117240535270608201) 
 - [Tristan Buckmaster 's statement](https://cims.nyu.edu/~tristanb/statement.pdf)
 
