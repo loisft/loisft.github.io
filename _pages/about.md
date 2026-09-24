@@ -52,7 +52,7 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 
  
 ## some upcoming events 
-- Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille) à Lille, 15 octobre 2026.
+- [Première Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille)](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-lille) à Lille, 15 octobre 2026 (co-organisé avec [Lucien Hennecart](https://hennlu.github.io/), [Daniel Juteau](https://lamfa.u-picardie.fr/annuaire/danjuteau), [Ronan Terpereau](http://ronan.terpereau.perso.math.cnrs.fr/)). 
 
 ---
 
