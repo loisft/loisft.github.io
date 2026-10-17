@@ -52,10 +52,11 @@ My pronouns in English are he/him/his/they/them/their. You can write to me in En
 
  
 ## some upcoming events 
-- [Première Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille)](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-lille) à Lille, 15 octobre 2026 (co-organisé avec [Lucien Hennecart](https://hennlu.github.io/), [Daniel Juteau](https://lamfa.u-picardie.fr/annuaire/danjuteau), [Ronan Terpereau](http://ronan.terpereau.perso.math.cnrs.fr/)). 
+- [Première Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille)](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-lille) à Lille, 15 octobre 2026 (co-organisée avec [Lucien Hennecart](https://hennlu.github.io/), [Daniel Juteau](https://lamfa.u-picardie.fr/annuaire/danjuteau), [Ronan Terpereau](http://ronan.terpereau.perso.math.cnrs.fr/)). 
+- [Workshop : Counting results in geometric Galois theory](https://ahgt.math.cnrs.fr/AHG-year_27-28/Season-A/Workshop-Counting_and_geometric_Galois_theory.html) at RIMS Kyoto, June 9-11, 2027. 
 
----
+--- 
 
 Picture by Joël Charles-Rebufé. 
 
-<!-- My previous profile pictures was taken by by [Matilde Maccan](https://matildemaccan.github.io/) and [Lena Ji 🧁](https://lji.web.illinois.edu/). -->
+<!-- My previous profile pictures were taken by [Matilde Maccan](https://matildemaccan.github.io/) and [Lena Ji 🧁](https://lji.web.illinois.edu/). -->

@@ -13,13 +13,16 @@ nav: true
 
 --- 
 
-## Diversity and inclusion in maths & academia 
+## Diversity and inclusion in maths & academia, academic freedom, ... 
 - [Eugenia Cheng's inclusivity manifesto](https://eugeniacheng.com/inclusivity/)
 - [Slides of Olga Paris-Romaskevich's talk at CARE](https://amubox.univ-amu.fr/s/SBRqbTLHSG5PFMF)
 - [Marta Pieropan's page on DEI](https://webspace.science.uu.nl/~piero001/index_diversity.html)
 - [Tribune sur La mobilité heureuse](https://olivier.garet.xyz/texte_mobilite.php)
 - [Kyne Santos's youtube channel](https://www.youtube.com/onlinekyne)
 - [R.A.S. (jusqu'ici tu vas bien ?)](https://www.youtube.com/watch?v=xKH7Dpkclao)
+- [Égalité filles-maths : l’IA face à ses stéréotypes… et aux nôtres](https://mathix.org/linux/archives/22772)
+- [Recommendation concerning the Status of Higher-Education Teaching Personnel (UNESCO)](https://www.unesco.org/en/legal-affairs/recommendation-concerning-status-higher-education-teaching-personnel)
+- [Academic Freedom Index](https://academic-freedom-index.net/)
 
 ---
 
@@ -31,6 +34,7 @@ nav: true
 - [Position of the SMF board on the recent announcements of OpenAI (FR/ENG)](https://smf.emath.fr/node/3699662)
 - [Andreas Thom's Mathstodon post](https://mathstodon.xyz/@andreasthom/117240535270608201) 
 - [Tristan Buckmaster 's statement](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [The meaning of doing mathematics](https://arxiv.org/pdf/2509.15998), Petra Schwer, September 2025 
 
 --- 
 
