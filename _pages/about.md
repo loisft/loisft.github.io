@@ -51,7 +51,9 @@ Its pronouciation is close to that of Louis in English but is different: in ˈlu
 My pronouns in English are he/him/his/they/them/their. You can write to me in English, French, Spanish or Italian. 
 
  
-## some upcoming events 
+## news
+- [Motion du CNU 25 sur le mouvement de lutte du 20 octobre 2026](https://cnu25.emath.fr/) (section "Actualités")
+
 - [Première Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille)](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-lille) à Lille, 15 octobre 2026 (co-organisée avec [Lucien Hennecart](https://hennlu.github.io/), [Daniel Juteau](https://lamfa.u-picardie.fr/annuaire/danjuteau), [Ronan Terpereau](http://ronan.terpereau.perso.math.cnrs.fr/)). 
 - [Workshop : Counting results in geometric Galois theory](https://ahgt.math.cnrs.fr/AHG-year_27-28/Season-A/Workshop-Counting_and_geometric_Galois_theory.html) at RIMS Kyoto, June 9-11, 2027. 
 
