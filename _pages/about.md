@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am <i>maître de conférences</i> (~ tenured assistant/associate professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), since September 2026. 
+I am <i>maître de conférences</i> (~ tenured assistant/associate professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), France, since September 2026. 
 
 Before that,
 - I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
@@ -46,9 +46,13 @@ See the "Research" page for a list of works.
 ## contact 
 my-first-name dot my-last-name at univ-lille.fr
 
+You can write to me in English, French, Italian, Spanish (in no particular order !)
+
+## how to pronounce my first name
+
 In my native language (French), my first name is gender neutral. 
 Its pronouciation is close to that of Louis in English but is different: in ˈluːɪs you have to replace uː by əʊ (like the final o in tomato) to get ˈləʊɪs (and pronounce the final s if you did not).
-My pronouns in English are he/him/his/they/them/their. You can write to me in English, French, Spanish or Italian. 
+My pronouns in English are he/him/his/they/them/their. 
 
  
 ## news
