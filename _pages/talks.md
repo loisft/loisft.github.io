@@ -10,7 +10,7 @@ img:
 ---
 
 ## upcoming talks
-- 2026.11.10 Journée du Laboratoire Paul Painlevé, Université de Lille, France
+- 2026.11.10 [Journée du Laboratoire Paul Painlevé](https://www.mathconf.org/jlpp2026), Université de Lille, France
 - 2026.12.09 [Number Theory Seminar](https://number-theory.pages.ist.ac.at/), ISTA, Austria
 - 2027.04.15 [Deuxième Journée GRAAL](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-amiens), Université de Picardie Jules Verne, Amiens, France (TBC)
 - 2027.06.XX [Workshop : Counting results in geometric Galois theory](https://ahgt.math.cnrs.fr/AHG-year_27-28/Season-A/Workshop-Counting_and_geometric_Galois_theory.html), RIMS Kyoto, Japan. 
