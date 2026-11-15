@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am [<i>maître de conférences</i>](https://en.wikipedia.org/wiki/Academic_ranks_in_France) (~ tenured associate professor), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), France, since September 2026. 
+I am [<i>maître de conférences</i>](https://en.wikipedia.org/wiki/Academic_ranks_in_France), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), France, since September 2026. 
 
 Before that,
 - I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
