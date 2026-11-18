@@ -22,6 +22,8 @@ social: false  # includes social icons at the bottom of the page
 
 I am [<i>maître de conférences</i>](https://en.wikipedia.org/wiki/Academic_ranks_in_France), member of the [AGA team](https://math.univ-lille.fr/equipes-de-recherche/arithmetique-et-geometrie-algebrique), at [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), [Université de Lille](https://www.univ-lille.fr/), France, since September 2026. 
 
+[➡️ Petit manuel de survie pour les néo-MCF](/assets/pdf/Petit-manuel-de-survie-pour-les-neo-MCF-1.3.pdf)
+
 Before that,
 - I was a postdoc researcher at [KU Leuven](https://www.kuleuven.be/), [Algebra Section](https://wis.kuleuven.be/algebra),
 mentored by [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/);
@@ -59,7 +61,7 @@ My pronouns in English are he/him/his/they/them/their.
 - [Motion du CNU 25 sur le mouvement de lutte du 20 octobre 2026](https://cnu25.emath.fr/) (section "Actualités")
 
 - [Première Journée GRAAL (Géométrie-Représentations-Algèbre Amiens-Lille)](https://math.univ-lille.fr/detail-event/journee-graal-geometrie-representations-algebre-amiens-lille-a-lille) à Lille, 15 octobre 2026 (co-organisée avec [Lucien Hennecart](https://hennlu.github.io/), [Daniel Juteau](https://lamfa.u-picardie.fr/annuaire/danjuteau), [Ronan Terpereau](http://ronan.terpereau.perso.math.cnrs.fr/)). 
-- [[Journée du Laboratoire Paul Painlevé](https://www.mathconf.org/jlpp2026), Université de Lille, France, 10 novembre 2026.
+- [Journée du Laboratoire Paul Painlevé](https://www.mathconf.org/jlpp2026), Université de Lille, France, 10 novembre 2026.
 - [Workshop : Counting results in geometric Galois theory](https://ahgt.math.cnrs.fr/AHG-year_27-28/Season-A/Workshop-Counting_and_geometric_Galois_theory.html) at RIMS Kyoto, June 9-11, 2027. 
 
 --- 
